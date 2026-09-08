@@ -1,5 +1,6 @@
+import {readStudy} from './study.js';
 export const SCHEMA = 1;
-export function blankState(){return {schemaVersion:SCHEMA,watched:[],favorites:[],notes:{},lastTopic:null};}
+export function blankState(){return {schemaVersion:SCHEMA,watched:[],favorites:[],notes:{},lastTopic:null,study:{},dailyGoal:2};}
 export function normalize(text){return text.normalize('NFD').replace(/[\u0300-\u036f]/g,'').toLowerCase();}
 export function validateBackup(data,topicIds,videoIds){
   if(!data || typeof data!=='object' || Array.isArray(data) || data.schemaVersion!==SCHEMA)throw Error('La copia no tiene un formato compatible.');
@@ -15,6 +16,9 @@ export function validateBackup(data,topicIds,videoIds){
   }
   if(data.lastTopic!==null && data.lastTopic!==undefined && typeof data.lastTopic!=='string')throw Error('El último tema no es válido.');
   out.lastTopic=topicIds.has(data.lastTopic)?data.lastTopic:null;
+  out.study=readStudy(data.study,topicIds);
+  if(data.dailyGoal!==undefined&&(!Number.isInteger(data.dailyGoal)||data.dailyGoal<1||data.dailyGoal>5))throw Error('El objetivo diario no es válido.');
+  out.dailyGoal=data.dailyGoal??2;
   return out;
 }
 export function selectVideos(topic,catalog,filters,state){

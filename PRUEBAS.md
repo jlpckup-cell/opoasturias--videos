@@ -33,3 +33,7 @@ Las fichas de los 105 vídeos devolvieron disponibilidad al consultarlas; no se 
 ## Revisión del programa oficial
 
 Comprobados los 34 enunciados contra la extracción del ANEXO II. Índice y biblioteca conservan los 34 temas incluso con filtros sin coincidencias. Avisos específicos para los dos temas sin recursos. Prueba a 390 px sin desbordamiento y revisión visual de título largo.
+
+## Preparación y repasos · 09/09/2026
+
+Pruebas de migración desde el formato original, exportación/importación lógica completa, rechazo de datos incorrectos, cambio de año y años bisiestos en fechas de repaso, prioridad del plan y límites del objetivo diario. Prueba de navegador a 390 px: conservación de notas antiguas, casillas y errores persistentes tras recarga, rechazo de aciertos superiores al total, registro de práctica, programación de repaso y plan de tres temas. Revisión visual del panel y del plan. No probado en un teléfono físico.

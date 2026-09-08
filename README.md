@@ -107,3 +107,12 @@ Los vídeos pertenecen a sus autores y se abren en YouTube. No se incluyen en el
 ## Versión con enunciados oficiales completos
 
 Los 34 temas aparecen íntegros en el índice, navegación y biblioteca, incluso sin vídeos o sin resultados de los filtros. Catálogo ampliado a 105 vídeos; consulta REVISION-VIDEOS.md para las incorporaciones y límites de cobertura.
+
+## Preparación y repasos (versión 1.3)
+
+- Plan diario configurable de 1 a 5 temas. Prioriza fechas vencidas, últimas prácticas con menos del 70 % de aciertos y temas en estudio. Ese umbral organiza el repaso y no representa una nota oficial.
+- Seguimiento independiente de los vídeos: estado del tema, lectura, esquema, recuerdo y práctica.
+- Repaso manual con intervalos orientativos de 1, 3, 7, 14 y 30 días; botón de refuerzo al día siguiente y fecha editable. Se muestra dentro de la app, sin notificaciones externas.
+- Cuaderno de errores por tema y registro de las últimas 20 prácticas (total y aciertos). No calcula penalizaciones ni contiene un banco de preguntas oficial.
+- Conserva notas, favoritos y vídeos vistos de versiones anteriores. Las copias JSON incluyen el nuevo seguimiento y aceptan las copias antiguas.
+- Los títulos oficiales completos, el orden y los avisos de cobertura se mantienen. La preparación exige contrastar el material y practicar; el seguimiento es una valoración personal.
