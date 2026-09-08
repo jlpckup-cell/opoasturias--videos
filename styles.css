@@ -9,3 +9,20 @@
 .normal-video-link{font-size:11px;color:#526c7b;text-decoration:underline;text-underline-offset:3px;padding:10px 4px}
 @media(max-width:760px){.button,.toggle,.icon-button{min-height:44px}.topbar .small{min-height:38px}.video-meta,.verification,.card-bottom{font-size:11px}.notes textarea{font-size:16px}.video-actions{gap:8px}.sidebar a{min-height:40px}}
 [hidden]{display:none!important}
+
+/* Official syllabus: full wording, readable at every screen size. */
+.nav-topic-title{min-width:0;overflow-wrap:anywhere;font-size:12px;line-height:1.6}
+.block-nav summary{line-height:1.5}.block-nav a{align-items:flex-start}
+.library-heading h1.official-title{font-size:clamp(18px,2.2vw,27px);line-height:1.65;letter-spacing:0;max-width:none;overflow-wrap:anywhere}
+.result-topic{display:block;background:#e8f1f5;border-left:5px solid #315d77;padding:22px;margin-top:36px;border-radius:8px}
+.result-topic h2{font-size:18px;line-height:1.65;font-weight:600;margin:10px 0;overflow-wrap:anywhere}
+.result-topic>span{font-size:12px}.topic-empty{border:1px dashed #aebec6;margin-bottom:30px}
+.official-index{margin:40px 0}.index-block{margin:24px 0;border:1px solid #d5e0e6;border-radius:12px;overflow:hidden;background:white}
+.index-block h3{margin:0;padding:20px;background:#122f43;color:white;font-size:18px;line-height:1.5}
+.index-block ol{list-style:none;padding:0;margin:0}.index-block li+li{border-top:1px solid #d5e0e6}
+.index-block a{display:grid;gap:10px;padding:22px;color:#122f43;text-decoration:none;line-height:1.65}
+.index-block a:hover{background:#edf5f1}.index-block strong{color:#356953;font-size:14px}.index-block span{font-size:15px;overflow-wrap:anywhere}
+.index-block small{font-size:12px;color:#526c7b}.index-block .missing-label{color:#9b4336;font-weight:700}
+@media(max-width:760px){.index-block a{padding:17px}.index-block h3{font-size:16px}.index-block span,.result-topic h2{font-size:15px}.result-topic{padding:17px}}
+
+.block-nav a>.nav-topic-title{font-size:12px;min-width:0;color:var(--ink)}

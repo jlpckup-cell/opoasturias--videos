@@ -1,4 +1,4 @@
-const VERSION='opoasturias-v3-android-brave-20260908';
+const VERSION='opoasturias-v4-official-topics-20260908';
 const BASE=new URL('./',self.location.href);
 const CACHE=VERSION+':'+BASE.pathname;
 const FILES=['./','./index.html','./styles.css','./app.js','./state.js','./android.js','./manifest.webmanifest','./data/catalog.json','./icons/icon.svg','./icons/icon-192.png','./icons/icon-512.png','./icons/maskable-512.png','./COBERTURA.md'];

@@ -10,31 +10,31 @@
     {
       "id": "I",
       "title": "Derecho Constitucional, Organización Administrativa y Políticas Públicas",
-      "shortTitle": "Constitución y organización",
+      "shortTitle": "Derecho Constitucional, Organización Administrativa y Políticas Públicas",
       "description": "Constitución, instituciones asturianas y derechos."
     },
     {
       "id": "II",
       "title": "Derecho Administrativo y Unión Europea",
-      "shortTitle": "Administrativo y Unión Europea",
+      "shortTitle": "Derecho Administrativo y Unión Europea",
       "description": "Procedimientos, contratos y actuación administrativa."
     },
     {
       "id": "III",
       "title": "Gestión de Recursos Humanos",
-      "shortTitle": "Recursos humanos",
+      "shortTitle": "Gestión de Recursos Humanos",
       "description": "Empleo público, retribuciones y Seguridad Social."
     },
     {
       "id": "IV",
       "title": "Gestión Financiera",
-      "shortTitle": "Gestión financiera",
+      "shortTitle": "Gestión Financiera",
       "description": "Presupuestos, ejecución del gasto y control."
     },
     {
       "id": "V",
       "title": "Competencias Digitales",
-      "shortTitle": "Competencias digitales",
+      "shortTitle": "Competencias Digitales",
       "description": "Windows 11, Microsoft 365 web y seguridad digital."
     }
   ],
@@ -42,7 +42,7 @@
     {
       "id": "I.1",
       "blockId": "I",
-      "title": "Constitución española I",
+      "title": "La Constitución española de 1978 (I): Título Preliminar; De los derechos y deberes fundamentales (Título I). De la Corona (Título II); De las Cortes Generales (Título III); Del Gobierno y de la Administración (Título IV); De las relaciones entre el Gobierno y las Cortes Generales (Título V).",
       "officialTitle": "La Constitución española de 1978 (I): Título Preliminar; De los derechos y deberes fundamentales (Título I). De la Corona (Título II); De las Cortes Generales (Título III); Del Gobierno y de la Administración (Título IV); De las relaciones entre el Gobierno y las Cortes Generales (Título V).",
       "coverage": "partial",
       "coverageNote": "Serie ordenada por los títulos incluidos. Pendiente de contraste artículo por artículo con la redacción exigible; ver todos los vídeos no acredita el dominio completo del tema.",
@@ -117,7 +117,7 @@
     {
       "id": "I.2",
       "blockId": "I",
-      "title": "Constitución española II",
+      "title": "La Constitución española de 1978 (II): Del Poder Judicial (Título VI); De la organización territorial del Estado (Título VIII); Del Tribunal Constitucional (Título IX); De la reforma constitucional (Título X).",
       "officialTitle": "La Constitución española de 1978 (II): Del Poder Judicial (Título VI); De la organización territorial del Estado (Título VIII); Del Tribunal Constitucional (Título IX); De la reforma constitucional (Título X).",
       "coverage": "partial",
       "coverageNote": "Se incluyen los títulos VI, VIII, IX y X. El título VII no se incorpora a este tema porque no figura en su enunciado oficial.",
@@ -157,7 +157,7 @@
     {
       "id": "I.3",
       "blockId": "I",
-      "title": "Estatuto de Autonomía de Asturias",
+      "title": "El Estatuto de Autonomía del Principado de Asturias: Título Preliminar; De las competencias del Principado de Asturias (Título I); De los órganos institucionales del Principado de Asturias (Título II); De los órganos auxiliares del Principado de Asturias (Título II.bis); De la Administración de Justicia (Título III); Hacienda y Economía (Título IV); Del control sobre la actividad de los órganos del Principado (Título V); De la reforma del Estatuto (Título VI).",
       "officialTitle": "El Estatuto de Autonomía del Principado de Asturias: Título Preliminar; De las competencias del Principado de Asturias (Título I); De los órganos institucionales del Principado de Asturias (Título II); De los órganos auxiliares del Principado de Asturias (Título II.bis); De la Administración de Justicia (Título III); Hacienda y Economía (Título IV); Del control sobre la actividad de los órganos del Principado (Título V); De la reforma del Estatuto (Título VI).",
       "coverage": "partial",
       "coverageNote": "Webinar de órganos institucionales y lectura de la norma. Pendiente comprobar el detalle y las reformas de todos los títulos del Estatuto.",
@@ -177,16 +177,22 @@
     {
       "id": "I.4",
       "blockId": "I",
-      "title": "Presidente, Gobierno y Administración asturiana",
+      "title": "La Ley del Principado de Asturias 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno. La Ley del Principado de Asturias 8/1991, de 30 de julio, de Organización de la Administración.",
       "officialTitle": "La Ley del Principado de Asturias 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno. La Ley del Principado de Asturias 8/1991, de 30 de julio, de Organización de la Administración.",
-      "coverage": "missing",
-      "coverageNote": "Sin explicación específica localizada de las Leyes asturianas 6/1984 y 8/1991. No se sustituyen por la Ley del Gobierno estatal.",
-      "videos": []
+      "coverage": "partial",
+      "coverageNote": "Hay una comparativa introductoria de 2018. Sigue pendiente el desarrollo específico y actualizado de las Leyes asturianas 6/1984 y 8/1991; no confundir este apoyo con la cobertura completa del tema.",
+      "videos": [
+        {
+          "videoId": "OCDsyYq0E2o",
+          "kind": "supplement",
+          "scope": "Comparativa de Gobierno y Administración del Estado y del Principado. Apoyo introductorio de 2018: no desarrolla íntegramente las Leyes 6/1984 y 8/1991 ni acredita su redacción vigente."
+        }
+      ]
     },
     {
       "id": "I.5",
       "blockId": "I",
-      "title": "Protección de datos y seguridad de la información",
+      "title": "La protección de datos de carácter personal: previsión constitucional. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: Disposiciones generales (Título I); Principios de la protección de datos (Título II); Derechos de las personas (Título III); Ficheros de titularidad pública (Capítulo I del Título IV). La Orden de 25 de marzo de 2026, de la Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo, por la que se aprueba la Política de Seguridad de la Información y Protección de Datos Personales de la Administración del Principado de Asturias: Principios básicos (3.1).",
       "officialTitle": "La protección de datos de carácter personal: previsión constitucional. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: Disposiciones generales (Título I); Principios de la protección de datos (Título II); Derechos de las personas (Título III); Ficheros de titularidad pública (Capítulo I del Título IV). La Orden de 25 de marzo de 2026, de la Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo, por la que se aprueba la Política de Seguridad de la Información y Protección de Datos Personales de la Administración del Principado de Asturias: Principios básicos (3.1).",
       "coverage": "partial",
       "coverageNote": "Pendiente la política asturiana de 25/03/2026, apartado 3.1. El enunciado oficial contiene una referencia a ficheros de titularidad pública que requiere aclaración; se conserva literalmente.",
@@ -201,7 +207,7 @@
     {
       "id": "I.6",
       "blockId": "I",
-      "title": "Transparencia y buen gobierno",
+      "title": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno: Transparencia de la actividad pública (Título I); Buen gobierno Título II).",
       "officialTitle": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno: Transparencia de la actividad pública (Título I); Buen gobierno Título II).",
       "coverage": "partial",
       "coverageNote": "Vídeos de transparencia, información pública y buen gobierno. Pendiente revisión de cobertura y vigencia de cada artículo.",
@@ -226,7 +232,7 @@
     {
       "id": "I.7",
       "blockId": "I",
-      "title": "Igualdad y violencia de género en Asturias",
+      "title": "La Ley del Principado de Asturias 2/2011, de 11 de marzo, para la igualdad de mujeres y hombres y la erradicación de la violencia de género.",
       "officialTitle": "La Ley del Principado de Asturias 2/2011, de 11 de marzo, para la igualdad de mujeres y hombres y la erradicación de la violencia de género.",
       "coverage": "partial",
       "coverageNote": "Solo se ha localizado una lectura de la ley de 2018. Pendiente explicación y cotejo de sus reformas posteriores.",
@@ -241,7 +247,7 @@
     {
       "id": "I.8",
       "blockId": "I",
-      "title": "Discapacidad y dependencia",
+      "title": "El Texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social: objeto, definiciones y principios (Título Preliminar, Capítulo I); La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia: Disposiciones Generales (Título Preliminar).",
       "officialTitle": "El Texto refundido de la Ley general de derechos de las personas con discapacidad y de su inclusión social: objeto, definiciones y principios (Título Preliminar, Capítulo I); La Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia: Disposiciones Generales (Título Preliminar).",
       "coverage": "partial",
       "coverageNote": "Vídeos generales de ambas leyes; estudiar únicamente los apartados del programa y contrastar reformas posteriores.",
@@ -261,7 +267,7 @@
     {
       "id": "II.1",
       "blockId": "II",
-      "title": "Fuentes del Derecho de la Unión Europea",
+      "title": "Los efectos de las diferentes fuentes del derecho que integran el ordenamiento jurídico de la Unión Europea: tratados, reglamentos, directivas y decisiones.",
       "officialTitle": "Los efectos de las diferentes fuentes del derecho que integran el ordenamiento jurídico de la Unión Europea: tratados, reglamentos, directivas y decisiones.",
       "coverage": "partial",
       "coverageNote": "Introducción a fuentes y efectos. Pendiente verificar detalle de tratados, excepciones y efectos jurídicos de cada instrumento.",
@@ -281,7 +287,7 @@
     {
       "id": "II.2",
       "blockId": "II",
-      "title": "Procedimiento administrativo común · Ley 39/2015",
+      "title": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: Disposiciones Generales (Título Preliminar); De los interesados en el procedimiento (Título I); De la actividad de las Administraciones Públicas (Título II); De los actos administrativos (Título III); De las disposiciones sobre el procedimiento administrativo común (Título IV); De la revisión de los actos en vía administrativa (Título V).",
       "officialTitle": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas: Disposiciones Generales (Título Preliminar); De los interesados en el procedimiento (Título I); De la actividad de las Administraciones Públicas (Título II); De los actos administrativos (Título III); De las disposiciones sobre el procedimiento administrativo común (Título IV); De la revisión de los actos en vía administrativa (Título V).",
       "coverage": "partial",
       "coverageNote": "Serie del procedimiento común ordenada por materias. Vídeos de distintas fechas: revisar cambios posteriores en el texto legal.",
@@ -346,7 +352,7 @@
     {
       "id": "II.3",
       "blockId": "II",
-      "title": "Régimen jurídico del sector público · Ley 40/2015",
+      "title": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público: Disposiciones generales (Capítulo I del Título Preliminar); De los órganos de las Administraciones Públicas (Capítulo II del Título Preliminar); Funcionamiento electrónico del sector público (Capítulo V del Título Preliminar); Relaciones Interadministrativas (Título III).",
       "officialTitle": "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público: Disposiciones generales (Capítulo I del Título Preliminar); De los órganos de las Administraciones Públicas (Capítulo II del Título Preliminar); Funcionamiento electrónico del sector público (Capítulo V del Título Preliminar); Relaciones Interadministrativas (Título III).",
       "coverage": "partial",
       "coverageNote": "Incluye los capítulos I, II y V del título preliminar y una explicación del título III. No se confunde con la organización de la AGE del título I.",
@@ -376,16 +382,16 @@
     {
       "id": "II.4",
       "blockId": "II",
-      "title": "Régimen jurídico de Asturias · Ley 2/1995",
+      "title": "La Ley 2/1995, de 13 de marzo, sobre Régimen Jurídico de la Administración del Principado de Asturias.",
       "officialTitle": "La Ley 2/1995, de 13 de marzo, sobre Régimen Jurídico de la Administración del Principado de Asturias.",
       "coverage": "missing",
-      "coverageNote": "Sin vídeo específico localizado de la Ley asturiana 2/1995. Los vídeos de la Ley 40/2015 no la sustituyen.",
+      "coverageNote": "No hay ningún vídeo disponible en este catálogo para este tema. Tras ampliar la búsqueda por número de ley, denominación y términos de oposición, no se ha localizado un vídeo público adecuado. El tema se mantiene íntegro y pendiente de estudio.",
       "videos": []
     },
     {
       "id": "II.5",
       "blockId": "II",
-      "title": "Contratos del sector público",
+      "title": "Ley de Contratos del Sector Público: Objeto y ámbito de aplicación de la Ley (Título Preliminar, Capítulo I, Sección 1); Los contratos del sector público: delimitación de los tipos contractuales (Título Preliminar, Capítulo II, Sección 1); Configuración general de la contratación del sector público y elementos estructurales de los contratos: necesidad e idoneidad del contrato y eficiencia en la contratación (Libro Primero, Título I, Capítulo I, artículo 28), plazo de duración de los contratos y ejecución de la prestación(Libro Primero, Título I, Capítulo I, artículo 29), libertad de pactos y contenido mínimo del contrato (Libro Primero, Título I, Capítulo II, artículos 34 y 35), perfección y forma del contrato (Libro Primero, Título I, Capítulo III, artículos 36 y 37). Las partes en el contrato: Órgano de contratación (Libro Primero, Título II, Capítulo I). Objeto, presupuesto base de licitación, valor estimado, precio del contrato y su revisión (Libro Primero, Título III, Capítulo I, artículos 99 a 102). Normas generales de la adjudicación de los contratos de las administraciones públicas: la adjudicación de los contratos de las Administraciones Públicas: la formalización de los contratos, anuncio de formalización y comunicación a los candidatos y a los licitadores (artículo 153 a 155). Los procedimientos de adjudicación: procedimiento abierto (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 156 a 159), procedimiento restringido (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 160 a 165) y procedimientos con negociación (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 166 a 171).",
       "officialTitle": "Ley de Contratos del Sector Público: Objeto y ámbito de aplicación de la Ley (Título Preliminar, Capítulo I, Sección 1); Los contratos del sector público: delimitación de los tipos contractuales (Título Preliminar, Capítulo II, Sección 1); Configuración general de la contratación del sector público y elementos estructurales de los contratos: necesidad e idoneidad del contrato y eficiencia en la contratación (Libro Primero, Título I, Capítulo I, artículo 28), plazo de duración de los contratos y ejecución de la prestación(Libro Primero, Título I, Capítulo I, artículo 29), libertad de pactos y contenido mínimo del contrato (Libro Primero, Título I, Capítulo II, artículos 34 y 35), perfección y forma del contrato (Libro Primero, Título I, Capítulo III, artículos 36 y 37). Las partes en el contrato: Órgano de contratación (Libro Primero, Título II, Capítulo I). Objeto, presupuesto base de licitación, valor estimado, precio del contrato y su revisión (Libro Primero, Título III, Capítulo I, artículos 99 a 102). Normas generales de la adjudicación de los contratos de las administraciones públicas: la adjudicación de los contratos de las Administraciones Públicas: la formalización de los contratos, anuncio de formalización y comunicación a los candidatos y a los licitadores (artículo 153 a 155). Los procedimientos de adjudicación: procedimiento abierto (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 156 a 159), procedimiento restringido (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 160 a 165) y procedimientos con negociación (Libro Segundo, Título I, Capítulo I, Sección 2, Subsección 2, artículos 166 a 171).",
       "coverage": "partial",
       "coverageNote": "Serie ordenada según el programa y capítulos verificados. Pendiente una explicación específica de formalización, anuncio y comunicación (153–155) y el detalle íntegro de 156–171.",
@@ -500,7 +506,7 @@
     {
       "id": "II.6",
       "blockId": "II",
-      "title": "Subvenciones",
+      "title": "La Ley 38/2003, de 17 de noviembre, General de Subvenciones: Disposiciones generales (Título preliminar); Procedimientos de concesión y gestión de subvenciones (Título I). El Decreto 71/1992, de 29 de octubre, por el que se regula el régimen general de concesión de subvenciones en el Principado de Asturias.",
       "officialTitle": "La Ley 38/2003, de 17 de noviembre, General de Subvenciones: Disposiciones generales (Título preliminar); Procedimientos de concesión y gestión de subvenciones (Título I). El Decreto 71/1992, de 29 de octubre, por el que se regula el régimen general de concesión de subvenciones en el Principado de Asturias.",
       "coverage": "partial",
       "coverageNote": "Localizados título preliminar y título I de la Ley 38/2003. Pendiente el Decreto asturiano 71/1992.",
@@ -520,7 +526,7 @@
     {
       "id": "II.7",
       "blockId": "II",
-      "title": "Potestad sancionadora",
+      "title": "La potestad sancionadora de la Administración: Principios de la potestad sancionadora en la Ley 40/2015. El Reglamento del procedimiento sancionador general en la Administración del Principado de Asturias.",
       "officialTitle": "La potestad sancionadora de la Administración: Principios de la potestad sancionadora en la Ley 40/2015. El Reglamento del procedimiento sancionador general en la Administración del Principado de Asturias.",
       "coverage": "partial",
       "coverageNote": "Localizada normativa común. Pendiente el Reglamento sancionador general del Principado (Decreto 21/1994).",
@@ -540,7 +546,7 @@
     {
       "id": "II.8",
       "blockId": "II",
-      "title": "Responsabilidad patrimonial",
+      "title": "La responsabilidad patrimonial de las Administraciones Públicas: regulación en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
       "officialTitle": "La responsabilidad patrimonial de las Administraciones Públicas: regulación en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.",
       "coverage": "partial",
       "coverageNote": "Explicación de responsabilidad patrimonial con contenido procedimental adicional. Pendiente verificar íntegramente los preceptos exigidos de la Ley 40/2015.",
@@ -555,7 +561,7 @@
     {
       "id": "II.9",
       "blockId": "II",
-      "title": "Expropiación forzosa",
+      "title": "La Ley de Expropiación Forzosa: Principios Generales (Título I). Procedimiento general (Título II).",
       "officialTitle": "La Ley de Expropiación Forzosa: Principios Generales (Título I). Procedimiento general (Título II).",
       "coverage": "partial",
       "coverageNote": "Introducción y procedimiento general. Pendiente cotejar el detalle completo de los títulos I y II de la ley.",
@@ -575,7 +581,7 @@
     {
       "id": "III.1",
       "blockId": "III",
-      "title": "Estatuto Básico del Empleado Público",
+      "title": "El Texto Refundido de la Ley del Estatuto Básico del Empleado Público: Ámbito de aplicación; Personal al servicio de las Administraciones Públicas (Título II); Derechos y deberes. Código de conducta de los empleados públicos (Título III); Adquisición y pérdida de la relación de servicio (Título IV); Ordenación de la actividad profesional (Título V); Situaciones administrativas (Título VI); Régimen disciplinario (Título VII).",
       "officialTitle": "El Texto Refundido de la Ley del Estatuto Básico del Empleado Público: Ámbito de aplicación; Personal al servicio de las Administraciones Públicas (Título II); Derechos y deberes. Código de conducta de los empleados públicos (Título III); Adquisición y pérdida de la relación de servicio (Título IV); Ordenación de la actividad profesional (Título V); Situaciones administrativas (Título VI); Régimen disciplinario (Título VII).",
       "coverage": "partial",
       "coverageNote": "Serie TREBEP con actualización de nacimiento de 2025. Pendiente cobertura completa y actualizada de todos los permisos. El vídeo de situaciones incluye también normas de la AGE.",
@@ -655,7 +661,7 @@
     {
       "id": "III.2",
       "blockId": "III",
-      "title": "Empleo público y jornada en Asturias",
+      "title": "La Ley del Principado de Asturias 2/2023, de 15 de marzo, de Empleo Público: Ámbito de aplicación de la Ley; Clases de empleados públicos (Título II); Estructura y ordenación del empleo público (Título IV); Adquisición y pérdida de la condición de empleado público (Título V); Provisión de puestos de trabajo (Título VI); Situaciones administrativas de los empleados públicos (Título VII); Derechos y deberes (Título VIII); Régimen disciplinario (Título IX). El Reglamento de jornada, horario, vacaciones y permisos de los funcionarios de la Administración del Principado de Asturias.",
       "officialTitle": "La Ley del Principado de Asturias 2/2023, de 15 de marzo, de Empleo Público: Ámbito de aplicación de la Ley; Clases de empleados públicos (Título II); Estructura y ordenación del empleo público (Título IV); Adquisición y pérdida de la condición de empleado público (Título V); Provisión de puestos de trabajo (Título VI); Situaciones administrativas de los empleados públicos (Título VII); Derechos y deberes (Título VIII); Régimen disciplinario (Título IX). El Reglamento de jornada, horario, vacaciones y permisos de los funcionarios de la Administración del Principado de Asturias.",
       "coverage": "partial",
       "coverageNote": "Lectura asturiana y material sobre jornada. Pendiente cotejar las modificaciones de jornada, permisos y vacaciones; no memorizar cifras históricas sin comprobarlas.",
@@ -675,16 +681,16 @@
     {
       "id": "III.3",
       "blockId": "III",
-      "title": "V Convenio Colectivo de Asturias",
+      "title": "El V Convenio Colectivo para el personal laboral de la Administración del Principado de Asturias: Ámbito de aplicación (Capítulo I); Movilidad del personal (Capítulo IV); Jornada, horario de trabajo, vacaciones, permisos, licencias, suspensión y extinción del contrato de trabajo (Capítulos V y VI y Acuerdos del Consejo de Gobierno de 30 de abril de 2013, de 8 de octubre de 2012 y de 27 de enero de 2016); Clasificación de grupos y retribuciones (Capítulo VII); Provisión de vacantes, promoción e ingreso (Capítulo VIII); Derechos sindicales, formación y perfeccionamiento profesional y asistencia social (Capítulo X).",
       "officialTitle": "El V Convenio Colectivo para el personal laboral de la Administración del Principado de Asturias: Ámbito de aplicación (Capítulo I); Movilidad del personal (Capítulo IV); Jornada, horario de trabajo, vacaciones, permisos, licencias, suspensión y extinción del contrato de trabajo (Capítulos V y VI y Acuerdos del Consejo de Gobierno de 30 de abril de 2013, de 8 de octubre de 2012 y de 27 de enero de 2016); Clasificación de grupos y retribuciones (Capítulo VII); Provisión de vacantes, promoción e ingreso (Capítulo VIII); Derechos sindicales, formación y perfeccionamiento profesional y asistencia social (Capítulo X).",
       "coverage": "missing",
-      "coverageNote": "Sin vídeo específico localizado del V Convenio de Asturias y los tres acuerdos exigidos. No se incluye el IV Convenio de la AGE ni el convenio de la AEAT como sustitutos.",
+      "coverageNote": "No hay ningún vídeo disponible en este catálogo para este tema. Tras ampliar la búsqueda por número de ley, denominación y términos de oposición, no se ha localizado un vídeo público adecuado. El tema se mantiene íntegro y pendiente de estudio.",
       "videos": []
     },
     {
       "id": "III.4",
       "blockId": "III",
-      "title": "Retribuciones de funcionarios",
+      "title": "Las retribuciones de los funcionarios al servicio de la Administración del Principado de Asturias. Retribuciones básicas: sueldo, trienios y pagas extraordinarias. Retribuciones complementarias y otras remuneraciones. Devengo y liquidación de derechos económicos.",
       "officialTitle": "Las retribuciones de los funcionarios al servicio de la Administración del Principado de Asturias. Retribuciones básicas: sueldo, trienios y pagas extraordinarias. Retribuciones complementarias y otras remuneraciones. Devengo y liquidación de derechos económicos.",
       "coverage": "partial",
       "coverageNote": "Base común del TREBEP y lectura de derechos retributivos de la Ley asturiana 2/2023. Pendiente desarrollo de devengo, liquidación y otras reglas autonómicas.",
@@ -710,7 +716,7 @@
     {
       "id": "III.5",
       "blockId": "III",
-      "title": "Prestaciones de la Seguridad Social",
+      "title": "El Texto Refundido de la Ley General de la Seguridad Social: El Régimen General de la Seguridad Social: incapacidad temporal (concepto y beneficiarios), maternidad, paternidad, riesgo durante el embarazo, riesgo durante la lactancia natural, cuidado de menores afectados por cáncer u otra enfermedad grave, incapacidad permanente contributiva (concepto, grados y beneficiarios), lesiones permanentes no incapacitantes, jubilación en su modalidad contributiva (concepto, beneficiarios, jubilación anticipada y jubilación parcial), muerte y supervivencia (prestaciones y sujetos causantes), protección a la familia.",
       "officialTitle": "El Texto Refundido de la Ley General de la Seguridad Social: El Régimen General de la Seguridad Social: incapacidad temporal (concepto y beneficiarios), maternidad, paternidad, riesgo durante el embarazo, riesgo durante la lactancia natural, cuidado de menores afectados por cáncer u otra enfermedad grave, incapacidad permanente contributiva (concepto, grados y beneficiarios), lesiones permanentes no incapacitantes, jubilación en su modalidad contributiva (concepto, beneficiarios, jubilación anticipada y jubilación parcial), muerte y supervivencia (prestaciones y sujetos causantes), protección a la familia.",
       "coverage": "partial",
       "coverageNote": "Selección parcial de prestaciones. Pendientes lesiones permanentes no incapacitantes, detalle de jubilación anticipada/parcial, riesgo durante embarazo/lactancia y protección a la familia.",
@@ -750,7 +756,7 @@
     {
       "id": "IV.1",
       "blockId": "IV",
-      "title": "Presupuesto y Hacienda de Asturias",
+      "title": "El presupuesto: Concepto, naturaleza y clases. El Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (I): La Hacienda del Principado de Asturias (Capítulo I, Sección 1).",
       "officialTitle": "El presupuesto: Concepto, naturaleza y clases. El Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (I): La Hacienda del Principado de Asturias (Capítulo I, Sección 1).",
       "coverage": "partial",
       "coverageNote": "Lectura de Hacienda asturiana. Pendiente una explicación de concepto, naturaleza y clases de presupuesto.",
@@ -771,7 +777,7 @@
     {
       "id": "IV.2",
       "blockId": "IV",
-      "title": "Presupuesto, créditos y modificaciones",
+      "title": "El Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (II): El presupuesto. Los créditos y sus modificaciones (Capítulo II, Sección 1 y 2).",
       "officialTitle": "El Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (II): El presupuesto. Los créditos y sus modificaciones (Capítulo II, Sección 1 y 2).",
       "coverage": "partial",
       "coverageNote": "Lectura de las secciones oficiales. Pendiente explicación práctica de modificaciones de crédito y sus competencias autonómicas.",
@@ -796,10 +802,10 @@
     {
       "id": "IV.3",
       "blockId": "IV",
-      "title": "Ejecución, liquidación y documentos contables",
+      "title": "La ejecución y liquidación del presupuesto: regulación en el Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (Capítulo II, Sección 3 y Capítulo IV, Sección 3). Los documentos contables.",
       "officialTitle": "La ejecución y liquidación del presupuesto: regulación en el Texto Refundido del régimen económico y presupuestario de la Administración del Principado de Asturias (Capítulo II, Sección 3 y Capítulo IV, Sección 3). Los documentos contables.",
       "coverage": "partial",
-      "coverageNote": "Lectura de ejecución y Cuenta General, más un supuesto asturiano antiguo. Pendiente liquidación y documentos contables con normativa actual.",
+      "coverageNote": "Lectura del TREPPA y dos supuestos asturianos de ejecución presupuestaria de 2019. Pendiente contrastar la liquidación, los documentos contables y los cambios posteriores con la normativa exigible.",
       "videos": [
         {
           "videoId": "wfHd9ICUkPE",
@@ -820,13 +826,18 @@
           "videoId": "DNs8eDKMqIs",
           "scope": "Supuesto de gestión financiera del Principado de Asturias. Material práctico complementario.",
           "kind": "supplement"
+        },
+        {
+          "videoId": "AdSArK9wFig",
+          "kind": "supplement",
+          "scope": "Supuesto práctico de ejecución presupuestaria asturiana y documentos ASTURCÓN XXI (2019). Contrastar procedimientos y normativa exigibles."
         }
       ]
     },
     {
       "id": "IV.4",
       "blockId": "IV",
-      "title": "Clasificación económica del gasto",
+      "title": "Gastos por operaciones corrientes, operaciones de capital y operaciones financieras.",
       "officialTitle": "Gastos por operaciones corrientes, operaciones de capital y operaciones financieras.",
       "coverage": "partial",
       "coverageNote": "Apoyo conceptual de Paco Barbié desde la legislación estatal. Pendiente correspondencia detallada con la clasificación presupuestaria aplicable en Asturias.",
@@ -841,10 +852,10 @@
     {
       "id": "IV.5",
       "blockId": "IV",
-      "title": "Control del gasto público",
+      "title": "El control del gasto público. Concepto y clasificación. El control parlamentario. El control externo: La Ley 3/2003 de 24 de marzo de la Sindicatura de Cuentas: naturaleza, ámbito de actuación y funciones; función fiscalizadora: contenido y alcance. El control interno: la Intervención de la Administración del Principado de Asturias (Capítulo IV, Sección 1 del TREPPA). Régimen de control interno ejercido por la Intervención General del Principado de Asturias (Decreto 70/2004, de 10 de septiembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General del Principado de Asturias).",
       "officialTitle": "El control del gasto público. Concepto y clasificación. El control parlamentario. El control externo: La Ley 3/2003 de 24 de marzo de la Sindicatura de Cuentas: naturaleza, ámbito de actuación y funciones; función fiscalizadora: contenido y alcance. El control interno: la Intervención de la Administración del Principado de Asturias (Capítulo IV, Sección 1 del TREPPA). Régimen de control interno ejercido por la Intervención General del Principado de Asturias (Decreto 70/2004, de 10 de septiembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General del Principado de Asturias).",
       "coverage": "partial",
-      "coverageNote": "Lectura de la Intervención General en el TREPPA. Pendientes concepto y clasificación del control, control parlamentario, Ley 3/2003 de Sindicatura y Decreto 70/2004.",
+      "coverageNote": "Lecturas del TREPPA y del Decreto 70/2004 para el control interno. Pendiente el desarrollo específico del control parlamentario y de la Ley 3/2003 de la Sindicatura de Cuentas.",
       "videos": [
         {
           "videoId": "wfHd9ICUkPE",
@@ -856,13 +867,18 @@
               "seconds": 4556
             }
           ]
+        },
+        {
+          "videoId": "bhLYRu-J9ro",
+          "kind": "audio",
+          "scope": "Lectura del Decreto 70/2004 sobre control interno de la Intervención General del Principado. No cubre por sí sola el control parlamentario ni la Sindicatura de Cuentas."
         }
       ]
     },
     {
       "id": "V.1",
       "blockId": "V",
-      "title": "Windows 11 y gestión de archivos",
+      "title": "Sistema operativo Windows 11. Trabajo en el entorno gráfico de Windows: Escritorio, ventanas, menús y configuración básica. Explorador de archivos. Gestión de carpetas y documentos. Búsqueda de información y archivos. Acceso rápido. Organización y almacenamiento de documentos.",
       "officialTitle": "Sistema operativo Windows 11. Trabajo en el entorno gráfico de Windows: Escritorio, ventanas, menús y configuración básica. Explorador de archivos. Gestión de carpetas y documentos. Búsqueda de información y archivos. Acceso rápido. Organización y almacenamiento de documentos.",
       "coverage": "partial",
       "coverageNote": "Escritorio, ventanas y explorador. Pendiente ampliar configuración básica, búsqueda, acceso rápido y prácticas de almacenamiento.",
@@ -887,7 +903,7 @@
     {
       "id": "V.2",
       "blockId": "V",
-      "title": "Word 365 para la web",
+      "title": "Procesador de texto: Word 365. Creación y edición de documentos: Formato de texto y párrafo, Tabulaciones, Listas numeradas y viñetas, Tablas. Diseño de documentos administrativos: Encabezados y pies, Secciones, Saltos de página, Numeración de páginas, Plantillas. Documentos extensos: Estilos, Tabla de contenido automática, Referencias cruzadas básicas. Revisión y colaboración: Comentarios, Seguimiento de cambios, Compartir documentos. Impresión y exportación: PDF, Opciones de impresión.",
       "officialTitle": "Procesador de texto: Word 365. Creación y edición de documentos: Formato de texto y párrafo, Tabulaciones, Listas numeradas y viñetas, Tablas. Diseño de documentos administrativos: Encabezados y pies, Secciones, Saltos de página, Numeración de páginas, Plantillas. Documentos extensos: Estilos, Tabla de contenido automática, Referencias cruzadas básicas. Revisión y colaboración: Comentarios, Seguimiento de cambios, Compartir documentos. Impresión y exportación: PDF, Opciones de impresión.",
       "coverage": "partial",
       "coverageNote": "Creación y colaboración en Word Online. Pendientes formato avanzado, tabulaciones, listas, tablas, secciones, referencias, impresión y exportación.",
@@ -907,7 +923,7 @@
     {
       "id": "V.3",
       "blockId": "V",
-      "title": "Excel 365 para la web",
+      "title": "Hoja de cálculo: Excel 365. Estructura de una hoja de cálculo: Libros, hojas y tablas, Formato de celdas. Fórmulas y funciones básicas. Gestión de datos: Ordenación, Filtros, Formato condicional. Informes y análisis: Gráficos, Tablas dinámicas. Automatización: Utilidad de grabación de macros.",
       "officialTitle": "Hoja de cálculo: Excel 365. Estructura de una hoja de cálculo: Libros, hojas y tablas, Formato de celdas. Fórmulas y funciones básicas. Gestión de datos: Ordenación, Filtros, Formato condicional. Informes y análisis: Gráficos, Tablas dinámicas. Automatización: Utilidad de grabación de macros.",
       "coverage": "partial",
       "coverageNote": "Introducción a Excel Online. Pendientes fórmulas, funciones, gestión de datos, gráficos, tablas dinámicas y distinción entre macros de escritorio y funciones web.",
@@ -922,7 +938,7 @@
     {
       "id": "V.4",
       "blockId": "V",
-      "title": "Outlook 365 para la web",
+      "title": "Correo electrónico: Outlook 365. Redacción y envío: Copia y copia oculta, Gestión de bandejas, Categorías, Búsqueda avanzada. Organización del correo: Carpetas, Reglas, Alertas. Calendario: Citas, Reuniones, Disponibilidad. Contactos y tareas: Listas de distribución, Seguimiento de tareas.",
       "officialTitle": "Correo electrónico: Outlook 365. Redacción y envío: Copia y copia oculta, Gestión de bandejas, Categorías, Búsqueda avanzada. Organización del correo: Carpetas, Reglas, Alertas. Calendario: Citas, Reuniones, Disponibilidad. Contactos y tareas: Listas de distribución, Seguimiento de tareas.",
       "coverage": "partial",
       "coverageNote": "Correo y calendarios en Outlook web. Pendientes reglas, alertas, listas de distribución, tareas y detalle de opciones actuales.",
@@ -942,7 +958,7 @@
     {
       "id": "V.5",
       "blockId": "V",
-      "title": "Microsoft Teams",
+      "title": "Microsoft Teams: Comunicación: Chats, Equipos y canales, Menciones. Reuniones: Convocatoria. Participación. Compartir pantalla. Trabajo colaborativo: Archivos compartidos, Edición simultánea.",
       "officialTitle": "Microsoft Teams: Comunicación: Chats, Equipos y canales, Menciones. Reuniones: Convocatoria. Participación. Compartir pantalla. Trabajo colaborativo: Archivos compartidos, Edición simultánea.",
       "coverage": "partial",
       "coverageNote": "Introducción, chats y canales. Pendientes comprobación de interfaz web vigente, archivos compartidos y edición simultánea.",
@@ -967,7 +983,7 @@
     {
       "id": "V.6",
       "blockId": "V",
-      "title": "OneDrive",
+      "title": "OneDrive: Almacenamiento en la nube, Sincronización de archivos, Compartición de documentos, Control de acceso, Recuperación de versiones, Restauración de archivos. Trabajo colaborativo: Edición simultánea, Compartir mediante enlaces, Gestión de permisos. Buenas prácticas: Organización documental, Nomenclatura de archivos, Seguridad de la información.",
       "officialTitle": "OneDrive: Almacenamiento en la nube, Sincronización de archivos, Compartición de documentos, Control de acceso, Recuperación de versiones, Restauración de archivos. Trabajo colaborativo: Edición simultánea, Compartir mediante enlaces, Gestión de permisos. Buenas prácticas: Organización documental, Nomenclatura de archivos, Seguridad de la información.",
       "coverage": "partial",
       "coverageNote": "Compartición e historial. Pendientes sincronización, restauración de archivos, organización y coautoría.",
@@ -987,7 +1003,7 @@
     {
       "id": "V.7",
       "blockId": "V",
-      "title": "Administración electrónica y seguridad digital",
+      "title": "Administración electrónica y seguridad digital: Identidad digital: certificado electrónico, DNI electrónico, Sistema Cl@ve. Firma electrónica: Concepto, Validez jurídica, Tipos de firma. Tramitación electrónica: Registro electrónico, Sede electrónica, CSV (Código Seguro de Verificación). Seguridad: Contraseñas seguras, custodia de datos, Phishing, Uso seguro del correo electrónico.",
       "officialTitle": "Administración electrónica y seguridad digital: Identidad digital: certificado electrónico, DNI electrónico, Sistema Cl@ve. Firma electrónica: Concepto, Validez jurídica, Tipos de firma. Tramitación electrónica: Registro electrónico, Sede electrónica, CSV (Código Seguro de Verificación). Seguridad: Contraseñas seguras, custodia de datos, Phishing, Uso seguro del correo electrónico.",
       "coverage": "partial",
       "coverageNote": "Cl@ve y phishing. Pendientes tipos y validez de firma, certificado y DNIe en detalle, registro, sede, CSV, contraseñas y custodia de datos.",
@@ -2336,6 +2352,45 @@
       "checkedAt": "2026-09-08",
       "verification": "Ficha pública de YouTube consultada: título, autor y descripción. La ficha devolvió disponibilidad de reproducción; no se ha visionado íntegramente.",
       "warning": "Publicado en 2020-07-08. Comprueba cambios posteriores de la norma o de la aplicación antes de memorizar detalles."
+    },
+    {
+      "id": "OCDsyYq0E2o",
+      "title": "Comparativa Gobierno y Administración: Estado-Principado de Asturias",
+      "channel": "Pablo Álvarez García",
+      "preferred": false,
+      "duration": "7:49",
+      "url": "https://www.youtube.com/watch?v=OCDsyYq0E2o",
+      "sourceUrl": "https://www.youtube.com/watch?v=OCDsyYq0E2o",
+      "publishedAt": "2018-10-08",
+      "checkedAt": "2026-09-08",
+      "verification": "Ficha pública de YouTube comprobada: título, autor, descripción y disponibilidad. No se ha visionado íntegramente.",
+      "warning": "Publicado en 2018-10-08. Contrasta los cambios normativos posteriores; recurso de apoyo histórico."
+    },
+    {
+      "id": "AdSArK9wFig",
+      "title": "SUPUESTO PRÁCTICO 1. GESTIÓN FINANCIERA. PRINCIPADO DE ASTURIAS.",
+      "channel": "Pablo Álvarez García",
+      "preferred": false,
+      "duration": "16:53",
+      "url": "https://www.youtube.com/watch?v=AdSArK9wFig",
+      "sourceUrl": "https://www.youtube.com/watch?v=AdSArK9wFig",
+      "publishedAt": "2019-01-28",
+      "checkedAt": "2026-09-08",
+      "verification": "Ficha pública de YouTube comprobada: título, autor, descripción y disponibilidad. No se ha visionado íntegramente.",
+      "warning": "Publicado en 2019-01-28. Contrasta los cambios normativos posteriores; recurso de apoyo histórico."
+    },
+    {
+      "id": "bhLYRu-J9ro",
+      "title": "AUDIOLIBRO Decreto 70/2004 Intervención General | Principado de Asturias",
+      "channel": "OpoHits",
+      "preferred": false,
+      "duration": "71:49",
+      "url": "https://www.youtube.com/watch?v=bhLYRu-J9ro",
+      "sourceUrl": "https://www.youtube.com/watch?v=bhLYRu-J9ro",
+      "publishedAt": "2026-03-19",
+      "checkedAt": "2026-09-08",
+      "verification": "Ficha pública de YouTube comprobada: título, autor, descripción y disponibilidad. No se ha visionado íntegramente.",
+      "warning": "Lectura de la norma: contrasta la versión exigible en la convocatoria."
     }
   ]
 }

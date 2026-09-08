@@ -1,6 +1,6 @@
 # OpoAsturias · Tu temario en vídeos
 
-Aplicación web para instalar desde Brave en Android y preparar **Administrativo C1 del Principado de Asturias, turno libre**. Incluye los 34 temas del ANEXO II oficial, 102 vídeos únicos (66 de Paco Barbié), favoritos, vídeos vistos y notas por tema.
+Aplicación web para instalar desde Brave en Android y preparar **Administrativo C1 del Principado de Asturias, turno libre**. Incluye los 34 temas del ANEXO II oficial, 105 vídeos únicos (66 de Paco Barbié), favoritos, vídeos vistos y notas por tema.
 
 Hay recursos para **31 de los 34 temas**. La cobertura es parcial: cada tema explica qué falta. I.4, II.4 y III.3 no tienen un vídeo específico localizado. Consulta [COBERTURA.md](./COBERTURA.md) para ver fuentes, huecos y criterios de selección.
 
@@ -102,3 +102,8 @@ Fuente del temario: PDF oficial facilitado por el usuario, BOPA 2026-06678, ANEX
 La revisión de fichas de YouTube comprueba existencia, atribución, disponibilidad indicada y correspondencia apoyada por descripciones o capítulos. **No supone haber visto íntegramente los vídeos ni haber auditado jurídicamente todas sus explicaciones.** Las fechas antiguas y las normas estatales de apoyo están señaladas. La aplicación es independiente y no está afiliada al Principado, a YouTube ni a los autores.
 
 Los vídeos pertenecen a sus autores y se abren en YouTube. No se incluyen en el repositorio el manual personal, los archivos de trabajo ni los datos de estudio del usuario.
+
+
+## Versión con enunciados oficiales completos
+
+Los 34 temas aparecen íntegros en el índice, navegación y biblioteca, incluso sin vídeos o sin resultados de los filtros. Catálogo ampliado a 105 vídeos; consulta REVISION-VIDEOS.md para las incorporaciones y límites de cobertura.
