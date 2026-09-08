@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {isAndroid,braveIntent} from '../android.js';
+assert.equal(isAndroid('Mozilla/5.0 (Linux; Android 15)'),true);
+assert.equal(isAndroid('Windows NT 10.0'),false);
+const link=braveIntent('https://www.youtube.com/watch?v=saHVlJohBTU&t=80s','https://demo.github.io/opo/#ayuda-brave');
+assert.ok(link.startsWith('intent://www.youtube.com/watch?v=saHVlJohBTU&t=80s#Intent;'));
+assert.ok(link.includes('package=com.brave.browser;'));
+assert.ok(link.includes('S.browser_fallback_url=https%3A%2F%2Fdemo.github.io%2Fopo%2F%23ayuda-brave;end'));
+assert.throws(()=>braveIntent('javascript:alert(1)','https://example.com'));
+assert.throws(()=>braveIntent('https://user:pass@example.com','https://example.com'));
+assert.throws(()=>braveIntent('https://example.com','file:///test'));
+console.log('Enlaces Brave/Android: correctos.');

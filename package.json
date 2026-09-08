@@ -1,0 +1,13 @@
+{
+  "name": "opoasturias-videos",
+  "version": "1.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Biblioteca PWA de vídeos para Administrativo C1 de Asturias",
+  "scripts": {
+    "test": "node tests/state.test.mjs && node tests/catalog.test.mjs && node tests/android.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {blankState,normalize,validateBackup,selectVideos} from '../state.js';
+const topics=new Set(['I.1','IV.1']),videos=new Set(['video1','video2']);
+assert.equal(normalize('Constitución'), 'constitucion');
+const b=blankState();b.watched=['video1','video1','removed'];b.favorites=['video2'];b.notes={'I.1':'<script>No ejecutar</script>','missing':'omitida'};
+const clean=validateBackup(b,topics,videos);
+assert.deepEqual(clean.watched,['video1']);assert.deepEqual(clean.notes,{'I.1':'<script>No ejecutar</script>'});
+assert.throws(()=>validateBackup({...b,schemaVersion:99},topics,videos));
+assert.throws(()=>validateBackup({...b,watched:'video1'},topics,videos));
+assert.throws(()=>validateBackup({...b,notes:{'I.1':100}},topics,videos));
+assert.throws(()=>validateBackup({...b,notes:{'I.1':'x'.repeat(50001)}},topics,videos));
+const topic={id:'I.1',title:'Constitución',officialTitle:'Título Preliminar',videos:[{videoId:'video1',scope:'artículo 1'},{videoId:'video2',scope:'artículo 2'}]};
+const cat={videos:[{id:'video1',title:'Principios',channel:'Paco',preferred:true},{id:'video2',title:'Valores',channel:'Otro',preferred:false}]};
+assert.equal(selectVideos(topic,cat,{query:'constitucion',channel:'all',status:'all'},clean).length,2);
+assert.equal(selectVideos(topic,cat,{query:'',channel:'all',status:'pending'},clean)[0].videoId,'video2');
+assert.equal(selectVideos(topic,cat,{query:'',channel:'paco',status:'favorites'},clean).length,0);
+assert.equal(selectVideos(topic,cat,{query:'artículo 2',channel:'otros',status:'all'},clean).length,1);
+console.log('Pruebas de estado y filtros: correctas.');
