@@ -17,7 +17,7 @@ if(onAndroid&&location.protocol==='https:'){$('#open-brave').hidden=false;$('#op
 $('#copy-url').onclick=async()=>{try{await navigator.clipboard.writeText(appAddress);$('#copy-status').textContent='Dirección copiada. Pégala en Brave.';}catch{$('#copy-status').textContent='Copia esta dirección: '+appAddress;}};
 function tell(text){$('#notice').textContent=text;$('#notice').hidden=false;}
 function save(){try{localStorage.setItem(key,JSON.stringify(state));return true;}catch{tell('No se han podido guardar los cambios en este navegador. Exporta tus datos desde el botón de ajustes.');return false;}}
-function route(){const hash=location.hash.slice(1);return hash.startsWith('tema/')?hash.slice(5):hash==='biblioteca'?'biblioteca':'inicio';}
+function route(){const hash=location.hash.slice(1);return hash.startsWith('lectura/')?hash:hash.startsWith('tema/')?hash.slice(5):hash==='biblioteca'?'biblioteca':'inicio';}
 function stats(){return {total:catalog.videos.length,seen:state.watched.length,linked:catalog.topics.filter(t=>t.videos.length).length};}
 function shell(){
   $('#syllabus').innerHTML=catalog.blocks.map(b=>`<details class="block-nav" ${route().startsWith(b.id+'.')?'open':''}><summary><span class="block-number">${b.id}</span><span>${esc(b.title)}</span><span class="chevron">⌄</span></summary><div>${catalog.topics.filter(t=>t.blockId===b.id).map(t=>`<a href="#tema/${t.id}" ${route()===t.id?'aria-current="page"':''}><span>${t.id}</span><span class="nav-topic-title">${esc(t.officialTitle)}</span><i class="${t.videos.length?'has-video':'no-video'}" title="${t.videos.length?'Con vídeos':'Sin vídeo localizado'}"></i></a>`).join('')}</div></details>`).join('');
@@ -60,7 +60,7 @@ function renderResults(){
 function library(topic){
   $('#crumb').textContent=topic?'Tema '+topic.id:'Todos los vídeos';
   const head=topic?`<div class="eyebrow">BLOQUE ${topic.blockId} · TEMA ${topic.id}</div><h1 class="official-title">${esc(topic.officialTitle)}</h1><div class="topic-coverage"><span class="badge ${topic.videos.length?'partial':'missing'}">${topic.videos.length?'Cobertura parcial':'Sin vídeo localizado'}</span><p>${esc(topic.coverageNote)}</p></div>`:`<div class="eyebrow">TU BIBLIOTECA</div><h1>Los 34 temas del programa oficial</h1><p class="intro">Paco Barbié y otros autores, organizados según el ANEXO II.<br>Elige un tema o encuentra la explicación que necesitas.</p>`;
-  $('#main').innerHTML=`<section class="library-heading">${head}</section>${topic?`<nav class="topic-shortcuts"><a class="button" href="#study-title" data-scroll="study-title">Mi preparación ↓</a><a class="button" href="#results" data-scroll="results">Ir a los vídeos ↓</a><a class="button" href="#topic-note" data-scroll="topic-note">Mis notas ↓</a></nav>`:''}${toolbar()}<div class="results-header"><h2>${topic?'Ruta de vídeos del tema':'Explorar vídeos'}</h2><span id="result-count"></span></div><section id="results" aria-label="Vídeos encontrados"></section>${topic?topicStudy(topic,state):''}${topic?`<section class="notes"><div class="section-heading"><h2>Mis notas · ${topic.id}</h2><span id="note-status" role="status">Guardadas en este dispositivo</span></div><label for="topic-note">Lo que quiero recordar de este tema</label><textarea id="topic-note" data-topic="${topic.id}" maxlength="50000" placeholder="Anota dudas, artículos clave o lo que quieres repasar…">${esc(state.notes[topic.id]||'')}</textarea><p>Las notas no se publican en GitHub. Puedes guardarlas en una copia desde los ajustes.</p></section><nav class="topic-pagination" aria-label="Cambiar de tema">${neighbor(topic,-1)}${neighbor(topic,1)}</nav>`:''}`;
+  $('#main').innerHTML=`<section class="library-heading">${head}</section>${topic?`<nav class="topic-shortcuts"><a class="button primary" href="#lectura/${topic.id}">Leer tema escrito</a><a class="button" href="#study-title" data-scroll="study-title">Mi preparación ↓</a><a class="button" href="#results" data-scroll="results">Ir a los vídeos ↓</a><a class="button" href="#topic-note" data-scroll="topic-note">Mis notas ↓</a></nav>`:''}${toolbar()}<div class="results-header"><h2>${topic?'Ruta de vídeos del tema':'Explorar vídeos'}</h2><span id="result-count"></span></div><section id="results" aria-label="Vídeos encontrados"></section>${topic?topicStudy(topic,state):''}${topic?`<section class="notes"><div class="section-heading"><h2>Mis notas · ${topic.id}</h2><span id="note-status" role="status">Guardadas en este dispositivo</span></div><label for="topic-note">Lo que quiero recordar de este tema</label><textarea id="topic-note" data-topic="${topic.id}" maxlength="50000" placeholder="Anota dudas, artículos clave o lo que quieres repasar…">${esc(state.notes[topic.id]||'')}</textarea><p>Las notas no se publican en GitHub. Puedes guardarlas en una copia desde los ajustes.</p></section><nav class="topic-pagination" aria-label="Cambiar de tema">${neighbor(topic,-1)}${neighbor(topic,1)}</nav>`:''}`;
   renderResults();
 }
 function androidLinks(){
@@ -75,9 +75,23 @@ function androidLinks(){
   });
 }
 function neighbor(topic,delta){const t=catalog.topics[catalog.topics.indexOf(topic)+delta];return t?`<a class="button" href="#tema/${t.id}">${delta<0?'← Anterior':'Siguiente →'} · ${t.id}</a>`:'<span></span>';}
+let readingsPromise;
+async function reading(id){
+  const topic=catalog.topics.find(t=>t.id===id);
+  if(!topic){home();return;}
+  $('#crumb').textContent='Lectura · Tema '+id;
+  $('#main').innerHTML='<p class="loading">Abriendo el contenido escrito…</p>';
+  try{
+    readingsPromise??=fetch('./data/readings.json').then(r=>{if(!r.ok)throw Error('No se ha podido cargar el manual.');return r.json();}).catch(e=>{readingsPromise=null;throw e;});
+    const book=await readingsPromise;if(route()!=='lectura/'+id)return;
+    const text=book.topics[id];if(!text)throw Error('No se encuentra el texto de este tema.');
+    const sections=catalog.topics,index=sections.indexOf(topic);
+    $('#main').innerHTML=`<article class="reading"><div class="eyebrow">CONTENIDO ESCRITO · TEMA ${id}</div><h1 class="reading-title">${esc(topic.officialTitle)}</h1><nav class="topic-shortcuts"><a class="button" href="#inicio">Mi plan de hoy</a><a class="button" href="#tema/${id}">Vídeos, notas y preparación</a><button class="button" data-scroll="reading-body">Ir al desarrollo ↓</button><button class="button" data-scroll="reading-questions">Preguntas de repaso ↓</button></nav><p class="reading-source">${esc(book.edition)}. ${esc(book.notice)}</p><section id="reading-body" class="reading-body">${text.html}</section><section id="reading-questions" class="reading-body"><h2>Preguntas de repaso del tema</h2><p>Son preguntas del manual, no de un examen oficial. Intenta responder antes de abrir la solución.</p>${text.questions}</section><details class="reading-extras"><summary>Material complementario: cuadros de repaso y supuestos prácticos</summary><div class="reading-body">${book.extras}</div></details><nav class="topic-pagination">${index>0?`<a class="button" href="#lectura/${sections[index-1].id}">← Leer ${sections[index-1].id}</a>`:'<span></span>'}${index<sections.length-1?`<a class="button" href="#lectura/${sections[index+1].id}">Leer ${sections[index+1].id} →</a>`:''}</nav><a class="button primary" href="#tema/${id}">Anotar dudas y registrar mi estudio</a></article>`;
+  }catch(e){if(route()!=='lectura/'+id)return;$('#main').innerHTML=`<div class="empty"><h1>No se ha podido abrir el tema escrito</h1><p>${esc(e.message)} Conéctate para descargar la versión con el manual.</p><a class="button" href="#tema/${id}">Volver al tema</a></div>`;}
+}
 function render(){
   const r=route(),topic=catalog.topics.find(t=>t.id===r);shell();
-  if(topic){state.lastTopic=topic.id;save();library(topic);}else if(r==='biblioteca')library();else home();
+  if(r.startsWith('lectura/')){reading(r.slice(8));}else if(topic){state.lastTopic=topic.id;save();library(topic);}else if(r==='biblioteca')library();else home();
   document.body.classList.remove('menu-open');$('#menu').setAttribute('aria-expanded','false');
 }
 window.addEventListener('hashchange',()=>{if(!catalog)return;filters={query:'',channel:'all',status:'all'};render();window.scrollTo(0,0);$('#main').focus({preventScroll:true});if(location.hash==='#ayuda-brave')$('#settings').showModal();});

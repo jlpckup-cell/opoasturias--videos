@@ -116,3 +116,7 @@ Los 34 temas aparecen íntegros en el índice, navegación y biblioteca, incluso
 - Cuaderno de errores por tema y registro de las últimas 20 prácticas (total y aciertos). No calcula penalizaciones ni contiene un banco de preguntas oficial.
 - Conserva notas, favoritos y vídeos vistos de versiones anteriores. Las copias JSON incluyen el nuevo seguimiento y aceptan las copias antiguas.
 - Los títulos oficiales completos, el orden y los avisos de cobertura se mantienen. La preparación exige contrastar el material y practicar; el seguimiento es una valoración personal.
+
+## Lectura por temas (versión 1.4)
+
+Cada tarea del plan diario tiene dos accesos: «Leer tema escrito» y «Vídeos y preparación». La lectura también se abre desde cada tema mediante `#lectura/I.1` (sustituir el identificador). Incluye el desarrollo de los 34 temas del manual reorganizado del 8 de septiembre, 68 preguntas originales con soluciones desplegables y material complementario de cuadros y cinco supuestos. Conserva los avisos de revisión pendientes del manual: no se ha realizado una nueva actualización jurídica. Los contenidos escritos se incluyen en la caché sin conexión tras instalar esta versión. Las notas y el seguimiento permanecen en la pantalla de preparación.

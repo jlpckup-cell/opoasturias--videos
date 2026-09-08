@@ -37,3 +37,7 @@ Comprobados los 34 enunciados contra la extracción del ANEXO II. Índice y bibl
 ## Preparación y repasos · 09/09/2026
 
 Pruebas de migración desde el formato original, exportación/importación lógica completa, rechazo de datos incorrectos, cambio de año y años bisiestos en fechas de repaso, prioridad del plan y límites del objetivo diario. Prueba de navegador a 390 px: conservación de notas antiguas, casillas y errores persistentes tras recarga, rechazo de aciertos superiores al total, registro de práctica, programación de repaso y plan de tres temas. Revisión visual del panel y del plan. No probado en un teléfono físico.
+
+## Lectura escrita · 09/09/2026
+
+Verificados 34 identificadores y títulos contra el catálogo; dos preguntas, cuatro opciones por pregunta y dos soluciones por tema (68 preguntas). Comprobados los cuadros y cinco supuestos comunes. Prueba móvil de acceso desde el plan, tema sin vídeos, ampliación II.7, soluciones desplegables, recarga de enlace directo y tablas sin desbordamiento de la página. Revisión visual del texto. El texto se extrae del manual existente, no se genera nuevo contenido normativo.
