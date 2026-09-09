@@ -1,8 +1,8 @@
 # Validación
 
 - 34 identificadores y títulos en el orden oficial; todos con preguntas y recursos.
-- 448 preguntas con cuatro alternativas distintas, una clave válida, explicación y fuente. Sin enunciados exactamente duplicados.
-- 71 claves del examen oficial cotejadas con las casillas de la plantilla definitiva. Anuladas y cuestión contradictoria excluidas.
+- 527 preguntas con cuatro alternativas distintas, una clave válida, explicación y fuente. Sin enunciados exactamente duplicados.
+- 129 claves de las dos pruebas oficiales cotejadas con las casillas de sus plantillas. Anuladas y cuestión contradictoria excluidas.
 - Pruebas de nota: aciertos, fallos, blancas, penalizaciones, cero mínimo y diez máximo.
 - Selección sin repeticiones; filtros por origen y tema; lista de errores que elimina preguntas acertadas tras finalizar.
 - Validación de copias JSON: formato, IDs desconocidos, respuestas fuera de rango y conservación de la opción cero.

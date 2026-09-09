@@ -2,7 +2,7 @@
 
 Aplicación web instalable para practicar el ANEXO II de **Administrativo C1, turno libre, del Principado de Asturias**, BOPA 2026-06678. Conserva los 34 títulos completos y su orden.
 
-**448 preguntas interactivas:** 71 seleccionadas del examen oficial IAAP de 2025 y 377 originales de estudio. **73 recursos externos** y **47 documentos de exámenes y plantillas**. Son categorías distintas: no se suman las preguntas anunciadas por los proveedores al banco integrado.
+**527 preguntas interactivas:** 129 oficiales (71 de la primera prueba y 58 de la segunda prueba IAAP de 2025) y 398 originales de estudio. **73 recursos externos** y **47 documentos de exámenes y plantillas**. Son categorías distintas: no se suman las preguntas anunciadas por los proveedores al banco integrado.
 
 ## Abrir e instalar
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "date": "9 de septiembre de 2026",
+  "date": "10 de septiembre de 2026",
   "blocks": [
     {
       "id": "I",
@@ -67,7 +67,7 @@
       "block": "I",
       "title": "La protección de datos de carácter personal: previsión constitucional. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: Disposiciones generales (Título I); Principios de la protección de datos (Título II); Derechos de las personas (Título III); Ficheros de titularidad pública (Capítulo I del Título IV). La Orden de 25 de marzo de 2026, de la Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo, por la que se aprueba la Política de Seguridad de la Información y Protección de Datos Personales de la Administración del Principado de Asturias: Principios básicos (3.1).",
       "short": "Protección de datos y seguridad de la información",
-      "coverage": "Práctica de protección de datos. No se ha integrado un test específico de los principios 3.1 de la Orden de 25 de marzo de 2026. El enunciado oficial menciona «Ficheros de titularidad pública» con una estructura que no corresponde al título IV actual de la LO 3/2018; no se ha trasladado como si fuera vigente."
+      "coverage": "Incluye protección de datos y 21 preguntas originales que recorren los principios de seguridad y protección de datos del apartado 3.1 de la Orden de 25 de marzo de 2026. La mención del temario a «Ficheros de titularidad pública» no se ha presentado como si fuera la estructura vigente de la LO 3/2018. Cobertura parcial del resto del tema."
     },
     {
       "id": "I.6",
@@ -137,7 +137,7 @@
       "block": "II",
       "title": "La potestad sancionadora de la Administración: Principios de la potestad sancionadora en la Ley 40/2015. El Reglamento del procedimiento sancionador general en la Administración del Principado de Asturias.",
       "short": "Potestad y procedimiento sancionador",
-      "coverage": "Principios sancionadores de la Ley 40/2015 y una pregunta del Decreto 21/1994. La cobertura del procedimiento asturiano es reducida."
+      "coverage": "Principios sancionadores y selección oficial del Decreto 21/1994: pliego de cargos, actuaciones complementarias y abstención. Cobertura parcial del procedimiento autonómico."
     },
     {
       "id": "II.8",
@@ -165,7 +165,7 @@
       "block": "III",
       "title": "La Ley del Principado de Asturias 2/2023, de 15 de marzo, de Empleo Público: Ámbito de aplicación de la Ley; Clases de empleados públicos (Título II); Estructura y ordenación del empleo público (Título IV); Adquisición y pérdida de la condición de empleado público (Título V); Provisión de puestos de trabajo (Título VI); Situaciones administrativas de los empleados públicos (Título VII); Derechos y deberes (Título VIII); Régimen disciplinario (Título IX). El Reglamento de jornada, horario, vacaciones y permisos de los funcionarios de la Administración del Principado de Asturias.",
       "short": "Empleo público y jornada en Asturias",
-      "coverage": "Selección de conceptos de la Ley 2/2023. Cobertura limitada del Decreto 72/2013 y sus modificaciones; comprobar reglas de jornada y permisos aplicables al examen."
+      "coverage": "Ley 2/2023 y supuestos oficiales de jornada, vacaciones, permisos, provisión y régimen disciplinario. Se conserva la solución histórica del examen de 2025, publicado en 2026; comprobar modificaciones exigibles en la convocatoria."
     },
     {
       "id": "III.3",
@@ -7583,6 +7583,1426 @@
       "source": "https://iaap.asturias.es/documents/150386/4280777/PrimeraPruebaTL_Advo_ModA_OEP22_23.pdf/16d0763d-595d-5b92-6316-3e8513c2353a?t=1784633069896#page=30",
       "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · primera prueba · modelo A · 2025",
       "number": 90
+    },
+    {
+      "id": "iaap-c1-2025-second-1",
+      "topic": "II.6",
+      "kind": "official",
+      "text": "Teniendo en cuenta lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones ¿ante qué tipo de subvenciones nos encontraríamos?",
+      "options": [
+        "Subvenciones directas.",
+        "Subvenciones en régimen de concurrencia competitiva.",
+        "Subvenciones nominativas.",
+        "Subvenciones de carácter excepcional por razones de interés público o humanitario."
+      ],
+      "answer": 1,
+      "explanation": "La convocatoria compara solicitudes y establece una prelación según criterios previamente fijados. Ese es el régimen de concurrencia competitiva del artículo 22.1 de la Ley General de Subvenciones.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=5",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 1,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-2",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "Recibe la llamada de una ciudadana, que le pregunta dónde puede presentar la solicitud de subvención. Indicar cuál de las siguientes opciones NO es correcta, atendiendo a lo dispuesto en el artículo 16 de la Ley 39/2015, de 1 de octubre:",
+      "options": [
+        "Podrá presentarla en las oficinas de asistencia en materia de registros.",
+        "Podrá presentarla en el registro electrónico de la Administración del Principado de Asturias.",
+        "Podrá presentarla en las representaciones diplomáticas u oficinas consulares de España en el extranjero.",
+        "Deberá presentarla necesariamente en el registro electrónico de la Consejería que ha aprobado la convocatoria de subvenciones."
+      ],
+      "answer": 3,
+      "explanation": "El artículo 16.4 de la Ley 39/2015 admite varios lugares de presentación. En el supuesto no se impone una obligación electrónica a la persona física; no se limita la presentación al registro de la Consejería convocante.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=5",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 2,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-3",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "Indique qué día finaliza el plazo de presentación de solicitudes, con la información de que dispone a partir del enunciado:",
+      "options": [
+        "El 15 de septiembre.",
+        "El 16 de septiembre.",
+        "El 17 de septiembre.",
+        "El 18 de septiembre."
+      ],
+      "answer": 1,
+      "explanation": "Los quince días naturales se cuentan desde el 2 de septiembre de 2025: el día decimoquinto es el 16 de septiembre. La publicación del día 1 no se incluye en el cómputo.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=5",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 3,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-4",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "Respecto a la solicitud presentada por un representante legal, con los datos que se facilitan en el supuesto, y teniendo en cuenta lo dispuesto en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, ¿considera que se trata de una solicitud válida que deberá ser admitida?",
+      "options": [
+        "No, ya que los interesados con capacidad de obrar no pueden actuar a través de representante.",
+        "No, porque tratándose de una solicitud de subvenciones, deberá acreditarse la representación necesariamente en el momento de presentar la solicitud.",
+        "Sí, siempre que se aporte la acreditación de la representación dentro del plazo de diez días que deberá conceder al efecto el órgano administrativo, o de un plazo superior cuando las circunstancias del caso así lo requieran.",
+        "Sí, puesto que tratándose de actos y gestiones de mero trámite se presumirá la representación."
+      ],
+      "answer": 2,
+      "explanation": "El artículo 5.6 de la Ley 39/2015 permite subsanar la falta o insuficiencia de acreditación de la representación en diez días, o en un plazo superior si las circunstancias lo requieren. Presentar una solicitud exige acreditar la representación.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=5",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 4,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-5",
+      "topic": "II.6",
+      "kind": "official",
+      "text": "Teniendo en cuenta lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas, ¿cómo debería de procederse con la solicitud que no viene acompañada de la factura de compra de vehículo?",
+      "options": [
+        "Se requerirá a la persona solicitante para que subsane ese defecto en el plazo máximo e improrrogable de lo días.",
+        "Se le tendrá por desistida en su derecho a la subvención automáticamente.",
+        "Se requerirá a la persona solicitante para que subsane ese defecto en el plazo máximo de lo días, aunque prorrogable hasta cinco días más, a petición del interesado.",
+        "Se propondrá el archivo del expediente dando audiencia a la persona interesada."
+      ],
+      "answer": 0,
+      "explanation": "El artículo 23.5 de la Ley General de Subvenciones fija diez días máximos e improrrogables para subsanar. No presentar inicialmente la factura no produce por sí solo el desistimiento automático.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=6",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 5,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-6",
+      "topic": "IV.3",
+      "kind": "official",
+      "text": "Partiendo de la regulación prevista en la Resolución de 16/05/2005, de la Consejería de Economía y Administración Pública, por la que se establece el sistema de información contable de la Administración del Principado de Asturias y su sector público, y se aprueban las normas sobre los procedimientos de gestión, tramitación y régimen de contabilidad en la ejecución del presupuesto de gastos, ¿qué documento contable deberá tramitarse justo antes de enviar a fiscalizar la propuesta de resolución de convocatoria de subvenciones?",
+      "options": [
+        "Un documento contable \"A\" de aprobación o autorización de gasto de carácter anual, sobre crédito disponible.",
+        "Un documento contable \"AD\" de aprobación o autorización y disposición de gasto de carácter anual, sobre crédito disponible.",
+        "Un documento contable \"A\" de aprobación o autorización de gasto de carácter anual, sobre crédito retenido.",
+        "Un documento contable \"ADO\" de aprobación o autorización y disposición de gasto de carácter anual, sobre crédito retenido."
+      ],
+      "answer": 2,
+      "explanation": "La convocatoria autoriza el gasto, por lo que corresponde la fase A. Como el supuesto indica que ya se ha retenido crédito, el documento se emite sobre crédito retenido, sin anticipar la disposición ni el reconocimiento de la obligación.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=6",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 6,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-7",
+      "topic": "I.6",
+      "kind": "official",
+      "text": "¿Qué información deberá comunicarse al Portal de Transparencia, como mínimo, en relación a la convocatoria de subvenciones ya resuelta, teniendo en cuenta lo previsto en el artículo 8 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "options": [
+        "Se comunicarán las subvenciones revocadas, con indicación del importe que debe reintegrarse y los obligados al reintegro.",
+        "Se comunicarán las subvenciones y ayudas públicas concedidas, con indicación de su importe, objetivo o finalidad y beneficiarios.",
+        "Se comunicarán las subvenciones concedidas con indicación de su importe, así como también el importe a reintegrar.",
+        "Se comunicarán las subvenciones revocadas, con indicación del importe que debe reintegrarse, pero no los datos de los obligados al reintegro."
+      ],
+      "answer": 1,
+      "explanation": "El artículo 8.1.c de la Ley 19/2013 exige publicar las subvenciones y ayudas concedidas indicando su importe, finalidad y beneficiarios. La publicidad no se limita a las revocaciones o reintegros.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=6",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 7,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-9",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "A los dos días de publicarse en el Boletín Oficial del Principado de Asturias la Resolución de nombramiento de las personas integrantes de la Comisión que valorará las solicitudes de subvenciones, usted se percata de que los apellidos de una de esas personas figuran en un orden incorrecto. Teniendo en cuenta la regulación prevista en la Ley 39/2015, de 1 de octubre, ¿cómo considera que se debe proceder?",
+      "options": [
+        "Se dictaría una nueva resolución rectificando el error material de la anterior, y se publicaría en el mismo Boletín para hacerlo público.",
+        "Se interrumpirá el plazo para resolver la convocatoria de subvenciones hasta que se publique una nueva resolución de nombramiento de la comisión de valoración, dejando sin efecto la anterior.",
+        "Se procurará no volver a cometer ese tipo de errores, ya que únicamente resultaría procedente rectificar el error si lo solicita un interesado en el procedimiento, nunca de oficio.",
+        "Se notificará el error detectado a los miembros de la Comisión de Valoración, sin más trámite."
+      ],
+      "answer": 0,
+      "explanation": "El orden incorrecto de unos apellidos constituye, en este supuesto, un error material. El artículo 109.2 de la Ley 39/2015 permite rectificarlo de oficio o a instancia de los interesados en cualquier momento.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=7",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 9,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-10",
+      "topic": "II.5",
+      "kind": "official",
+      "text": "¿Qué tipo de contrato, de entre los regulados en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, considera que deberá tramitarse para adquirir las mochilas para las jornadas deportivas?",
+      "options": [
+        "Se tratará de un contrato administrativo de servicios.",
+        "Se tratará de un contrato administrativo de suministro.",
+        "Se tratará de un contrato mixto de servicios y suministro.",
+        "Se tratará de un contrato mixto de suministro y asistencia técnica."
+      ],
+      "answer": 1,
+      "explanation": "La adquisición de bienes muebles, aquí unas mochilas, encaja en el contrato de suministro del artículo 16 de la Ley de Contratos del Sector Público. No se está contratando una prestación de limpieza o asistencia.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=7",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 10,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-11",
+      "topic": "II.5",
+      "kind": "official",
+      "text": "Teniendo en cuenta lo dispuesto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público ¿cuál es el importe del valor estimado del contrato de las mochilas?",
+      "options": [
+        "1.210 euros",
+        "1.000 euros",
+        "No se puede conocer el valor estimado hasta que se reciban las ofertas.",
+        "2.000 euros"
+      ],
+      "answer": 1,
+      "explanation": "El valor estimado se calcula sin IVA conforme al artículo 101 de la Ley de Contratos del Sector Público. Para la única entrega descrita, son 1.000 euros; 1.210 euros es la cantidad con el IVA indicado.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=7",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 11,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-13",
+      "topic": "II.5",
+      "kind": "official",
+      "text": "¿Qué tipo de contrato, de entre los regulados en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, deberá tramitarse para la limpieza de las instalaciones que se indica en el enunciado?",
+      "options": [
+        "Un contrato de concesión de servicio.",
+        "Un contrato mixto de concesión de servicios y suministro.",
+        "Un contrato de servicios.",
+        "Un contrato basado de suministro."
+      ],
+      "answer": 2,
+      "explanation": "La limpieza de unas instalaciones es una prestación de hacer, propia del contrato de servicios del artículo 17 de la Ley de Contratos del Sector Público. El supuesto no describe una concesión con transferencia de riesgo operacional.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=8",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 13,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-14",
+      "topic": "IV.3",
+      "kind": "official",
+      "text": "Le dicen que tramite la retención de crédito para el contrato de la limpieza. Según la Resolución de 16/05/2005, de la Consejería de Economía y Administración Pública citada anteriormente ¿Qué tipo de documento contable es el que deberá realizar?",
+      "options": [
+        "Un RC de retención de crédito de carácter plurianual.",
+        "Un primer RC de retención de crédito anual para el ejercicio 2025 y un segundo RC plurianual para 2026.",
+        "Un RC de retención de crédito anticipado de gasto, pues el contrato finalizará en 2026.",
+        "Un RC de retención de crédito de carácter anual, pues el contrato se inicia en el ejercicio corriente."
+      ],
+      "answer": 0,
+      "explanation": "El contrato se extiende por los ejercicios 2025 y 2026. La plantilla aplica el documento RC de carácter plurianual previsto por el sistema contable autonómico; no es gasto anticipado, pues comienza en el ejercicio corriente.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=8",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 14,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-15",
+      "topic": "II.5",
+      "kind": "official",
+      "text": "En el mes de septiembre de 2025, el contratista que ha resultado adjudicatario del contrato de la limpieza, solicita por escrito la revisión de precios, dado el encarecimiento general de los precios. A la vista del enunciado, y teniendo en cuenta lo previsto en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, ¿qué opina al respecto de esta petición?",
+      "options": [
+        "Para aplicar la revisión de precios habrá que esperar a tener ejecutado al menos el 30% del precio del contrato, y que hayan transcurrido cuatro meses desde la formalización.",
+        "Para aplicar la revisión de precios habrá que esperar a tener ejecutado al menos el 20% del precio del contrato, y que hayan transcurrido dos meses desde la formalización.",
+        "Tratándose de un contrato menor, con una duración que no puede sobrepasar el año, no cabe la revisión de precios.",
+        "Solo se aplicará la revisión si está prevista en el pliego de cláusulas administrativas del contrato, habrá que estar a lo dispuesto en el pliego."
+      ],
+      "answer": 2,
+      "explanation": "El supuesto plantea un servicio menor con una duración inferior a un año. La revisión periódica de precios no procede en las condiciones descritas; el mero encarecimiento general no da derecho a revisar el precio de ese contrato.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=8",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 15,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-16",
+      "topic": "II.5",
+      "kind": "official",
+      "text": "Llegado el momento de finalización del contrato de limpieza, y dada la buena ejecución por parte de la empresa contratista, se plantean prorrogarlo por tres meses más. Con la información de que dispone, y teniendo en cuenta la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público ¿considera que sería correcta esa prórroga?",
+      "options": [
+        "No, tratándose de un contrato menor, su duración no será superior a un año, ni podrá ser objeto de prórroga.",
+        "Sí, al ser un contrato plurianual pierde la condición de contrato menor, y es susceptible de prórroga, siempre por periodos inferiores a un año.",
+        "Sí, al tratarse de un contrato menor plurianual, puede prorrogarse una única vez, con la misma duración que el contrato inicial.",
+        "No, los contratos menores plurianuales pueden ser objeto de una única prórroga de hasta 2 meses de duración, así que no cabe prorrogar por tres meses."
+      ],
+      "answer": 0,
+      "explanation": "El artículo 29.8 de la Ley de Contratos del Sector Público prohíbe prorrogar los contratos menores y limita su duración a un año. Que afecten a dos ejercicios presupuestarios no elimina su condición de menores.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=9",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 16,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-17",
+      "topic": "II.3",
+      "kind": "official",
+      "text": "Habiéndose reunido el día 12 de noviembre la Comisión de Valoración de la convocatoria de subvenciones de la que usted es secretario, y si bien ha levantado acta de los asuntos tratados en la sesión, e incluso se ha grabado la misma, se da cuenta unos días después de que el acta no ha sido sometida a aprobación. ¿De acuerdo con lo previsto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, qué ocurrirá en este caso?",
+      "options": [
+        "Deberá volver a reunirse la Comisión, pues el acta de cada sesión debe ser aprobada una vez finalizada esa reunión.",
+        "Excepcionalmente, si el resto de miembros de la Comisión están de acuerdo, se puede subsanar la falta de aprobación emitiendo una diligencia en la que se haga constar lo sucedido.",
+        "De acuerdo con la ley, el acta podrá aprobarse también en la reunión inmediata siguiente a aquella a que se refiere.",
+        "Al existir una grabación de la reunión la misma sustituye al acta."
+      ],
+      "answer": 2,
+      "explanation": "El artículo 18.2 de la Ley 40/2015 permite aprobar el acta en la misma reunión o en la inmediata siguiente. La grabación puede acompañar al acta, pero no hace innecesaria su aprobación.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=9",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 17,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-19",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "Antes de resolver el procedimiento de subvenciones, deciden solicitar un informe a otro servicio de la Consejería con más experiencia en materia de vehículos eléctricos; sin embargo, transcurridos 15 días sin obtener respuesta, y con la información del enunciado, partiendo de lo establecido al respecto en la Ley 39/2015, de 1 de octubre ¿pueden continuar con la tramitación de la convocatoria?",
+      "options": [
+        "Los informes preceptivos y vinculantes, como parece que es el caso, serán emitidos, con carácter general en el plazo de 20 días. Habrá que esperar por tanto antes de continuar el procedimiento.",
+        "Los informes facultativos y no vinculantes, como parece que es el caso, serán emitidos en el plazo de lo días. Sin perjuicio de la responsabilidad en que incurra el responsable de la demora, se podrá proseguir con la tramitación.",
+        "Los informes preceptivos, aunque no vinculantes, como parece que es el caso, serán emitidos, con carácter general en el plazo de lo días. Se suspenderá el transcurso del procedimiento y se exigirá responsabilidad disciplinaria al responsable de la demora.",
+        "Los informes facultativos y vinculantes, como es el caso, serán emitidos, con carácter general en el plazo de lo días. Se suspenderá el transcurso del procedimiento mientras no nos faciliten el informe."
+      ],
+      "answer": 1,
+      "explanation": "Salvo disposición expresa, los informes son facultativos y no vinculantes y se emiten en diez días, conforme al artículo 80 de la Ley 39/2015. En el caso descrito puede continuar la tramitación, sin perjuicio de responsabilidades por la demora.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=10",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 19,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-20",
+      "topic": "II.2",
+      "kind": "official",
+      "text": "Con fecha 29 de diciembre se publica en el Boletín Oficial del Principado de Asturias la Resolución de la Consejería acordando la concesión de subvenciones y también las denegaciones de forma motivada. ¿Considera que cabe algún tipo de recurso administrativo contra dicha Resolución?",
+      "options": [
+        "Al poner fin a la vía administrativa, cabe interponer recurso de alzada ante el mismo órgano que dictó la resolución en el plazo de un mes, contado desde el día siguiente al de su notificación.",
+        "AI poner fin a la vía administrativa, cabe interponer recurso potestativo de reposición, ante el mismo órgano que dictó la resolución en el plazo de un mes, contado desde el día siguiente al de su notificación.",
+        "AI poner fin a la vía administrativa, cabe interponer recurso de alzada ante el mismo órgano que dictó la resolución en el plazo de tres meses, contado desde el día siguiente al de su notificación.",
+        "AI poner fin a la vía administrativa, cabe interponer recurso potestativo de reposición, ante el mismo órgano que dictó la resolución en el plazo de tres meses, contado desde el día siguiente al de su notificación."
+      ],
+      "answer": 1,
+      "explanation": "Contra una resolución expresa que pone fin a la vía administrativa cabe reposición potestativa ante el mismo órgano, en un mes, según los artículos 123 y 124 de la Ley 39/2015. La alzada no es el recurso previsto para ese acto.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=10",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 20,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-21",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Podrá doña Otilia ser nombrada personal directivo según el art. lo de la Ley 2/2023 de 15 de marzo, de Empleo Público?",
+      "options": [
+        "Si, debiendo en todo caso pasar a la situación de Servicios Especiales.",
+        "No, puesto que el Personal Directivo profesional no puede ser personal funcionario.",
+        "Si, y mantendrá la situación administrativa de Servicio Activo en el cuerpo de pertenencia.",
+        "Si, puesto que únicamente el personal funcionario de carrera del grupo A subgrupo A1 puede ser nombrado personal directivo profesional."
+      ],
+      "answer": 2,
+      "explanation": "El artículo 10 de la Ley asturiana 2/2023 prevé que el personal funcionario nombrado directivo profesional mantenga la situación de servicio activo en su cuerpo de pertenencia. No implica necesariamente pasar a servicios especiales.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=12",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 21,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-22",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cuál será la forma de provisión definitiva del puesto de Secretario/a de Despacho de la Consejera de Medio Rural que interesa a don Justo?",
+      "options": [
+        "Concurso de Traslados.",
+        "Concurso de Méritos.",
+        "Libre designación.",
+        "Comisión de Servicios."
+      ],
+      "answer": 2,
+      "explanation": "La plantilla aplica la libre designación al puesto de secretaría de despacho de la consejera. La comisión de servicios es una forma temporal de cobertura y no la provisión definitiva preguntada.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=12",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 22,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-23",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Le será concedido a don Justo el permiso sin sueldo de 9 meses solicitado en 2024, para colaborar con una ONG?",
+      "options": [
+        "Sí, porque el permiso que solicita no supera los diez meses y no es inferior a lo días.",
+        "Sí, siempre que lo permitan las necesidades del servicio.",
+        "No, puesto que el permiso sin sueldo tiene una duración máxima de 6 meses.",
+        "No, puesto que excede de la duración acumulada de este tipo de permisos."
+      ],
+      "answer": 3,
+      "explanation": "Los diez meses de 2023 y los nueve solicitados en 2024 suman diecinueve. La plantilla rechaza el segundo permiso por exceder la duración acumulada permitida: no basta con comprobar la duración de cada solicitud aisladamente. Se conserva la solución del supuesto de 2025.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=12",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 23,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-24",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cuántos días hábiles de vacaciones le corresponderán a doña Otilia en el año 2025?",
+      "options": [
+        "22.",
+        "23.",
+        "24.",
+        "25."
+      ],
+      "answer": 1,
+      "explanation": "El reglamento autonómico añade un día hábil de vacaciones al alcanzar quince años de servicios. A los veintidós días ordinarios se suma uno, por lo que en el supuesto corresponden veintitrés.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=12",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 24,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-25",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cuál es el periodo máximo de duración de la Comisión de Servicios de doña Otilia?",
+      "options": [
+        "Un año en todo caso.",
+        "Dos años con una única posibilidad de prórroga por otro año más, en caso de no haberse cubierto con carácter definitivo.",
+        "Un año, prorrogable a otro y pudiendo mantenerse hasta la cobertura definitiva del puesto si este se encuentra en un procedimiento de provisión ya convocado.",
+        "No hay límite temporal para las Comisiones de Servicio, en todo caso hasta la cobertura definitiva del puesto."
+      ],
+      "answer": 2,
+      "explanation": "La Ley 2/2023 establece un año, prorrogable por otro, para la comisión de servicios. Puede mantenerse hasta la cobertura definitiva si el puesto está incluido en un procedimiento de provisión ya convocado, en los términos de la norma.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=12",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 25,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-26",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿A cuántos días de permiso retribuido tendrá derecho doña Otilia por el Traslado de Domicilio?",
+      "options": [
+        "1 día.",
+        "2 días.",
+        "3 días.",
+        "4 días."
+      ],
+      "answer": 1,
+      "explanation": "El supuesto describe un traslado de residencia entre localidades, de Gijón a Avilés. La plantilla aplica los dos días del permiso retribuido autonómico por traslado de domicilio; no es un traslado dentro de la misma localidad.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=13",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 26,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-27",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "Don Justo solicita le sean concedidas medidas de flexibilidad horaria por tener a su cargo una hija de lo años, ¿qué tipo de medida le corresponde?",
+      "options": [
+        "Flexibilizar hasta en I hora diaria la parte variable del horario de la jornada que tenga establecida.",
+        "Flexibilizar hasta en 2 horas diarias, la parte fija del horario de la jornada, únicamente si Justo tuviera una jornada de 35 horas semanales.",
+        "Flexibilizar hasta en 2 horas diarias la parte fija del horario de la jornada que tenga establecida, debiendo ser semanalmente compensada la alteración de la parte fija del horario.",
+        "Flexibilizar hasta en 2 horas diarias la parte fija del horario de la jornada que tenga establecida, implicando en todo caso dicha flexibilidad reducción de jornada de trabajo."
+      ],
+      "answer": 2,
+      "explanation": "Por la hija de diez años, el reglamento autonómico permite flexibilizar hasta dos horas la parte fija, con compensación semanal. La flexibilidad redistribuye el horario y no equivale a una reducción de jornada.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=13",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 27,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-28",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "Doña Otilia, pretende acumular sus días de permiso por asuntos particulares a los días de vacaciones ¿es posible dicho acúmulo?",
+      "options": [
+        "En ningún caso los días de permiso por asuntos particulares podrán acumularse a los de vacaciones.",
+        "En todo caso los días de permiso por asuntos particulares podrán acumularse a los de vacaciones",
+        "Los días de permiso por asuntos particulares podrán acumularse a los días de vacaciones, salvo en los casos de disfrute obligatorio de vacaciones por cierre de centro.",
+        "Los días de permiso por asuntos particulares solo podrán acumularse a los periodos de vacaciones solicitados fuera del periodo que va de junio a septiembre."
+      ],
+      "answer": 2,
+      "explanation": "El reglamento autonómico permite acumular asuntos particulares a vacaciones, excepto cuando las vacaciones deban disfrutarse obligatoriamente por cierre del centro. Por eso no es una posibilidad incondicionada.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=13",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 28,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-29",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "De acuerdo con la Ley 2/2023, de 15 de marzo, de Empleo Público, ¿con qué antelación mínima se le deberá notificar la atribución temporal de funciones a don Justo?",
+      "options": [
+        "3 dias hábiles.",
+        "5 días naturales.",
+        "10 días hábiles.",
+        "15 días naturales."
+      ],
+      "answer": 0,
+      "explanation": "La atribución temporal de funciones debe notificarse con una antelación mínima de tres días hábiles conforme a la Ley asturiana 2/2023. Las alternativas de cinco o quince días naturales no corresponden a esta regla.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=13",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 29,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-30",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "De acuerdo con Ley 2/2023, de 15 de marzo, de Empleo Público, ¿cuál será el periodo máximo de la atribución temporal de funciones?",
+      "options": [
+        "6 meses no siendo posible la prórroga.",
+        "6 meses, pudiendo prorrogarse por otros 6.",
+        "2 años, no siendo posible la prórroga.",
+        "1 año que podrá prorrogarse por otro más."
+      ],
+      "answer": 1,
+      "explanation": "La Ley asturiana 2/2023 fija seis meses, prorrogables por otros seis, para la atribución temporal de funciones. Esta figura no se confunde con una comisión de servicios para ocupar un puesto.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=14",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 30,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-31",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Qué tipo de permiso conlleva la asistencia al curso de formación en el que ha sido admitida doña Otilia?",
+      "options": [
+        "Un permiso no retribuido durante el tiempo de duración del mismo.",
+        "Un permiso retribuido durante las horas de duración del curso que coincidan con el horario de trabajo.",
+        "No dará lugar a ningún tipo de permiso.",
+        "Un permiso no retribuido durante las horas de duración del curso que coincidan con el horario de trabajo."
+      ],
+      "answer": 1,
+      "explanation": "La formación descrita está relacionada con el trabajo y se imparte durante parte del horario laboral. El régimen aplicable concede permiso retribuido por las horas del curso que coinciden con ese horario.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=14",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 31,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-32",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cómo computa el tiempo de asistencia a dicho curso?",
+      "options": [
+        "En todo caso como tiempo de trabajo a todos los efectos.",
+        "Como tiempo de trabajo a todos los efectos cuando coincida con el horario y jornada que tenga establecido doña Otilia.",
+        "En ningún caso computará como tiempo de trabajo.",
+        "No computará como tiempo de trabajo cuando coincida con el horario y jornada que tenga establecido doña Otilia."
+      ],
+      "answer": 1,
+      "explanation": "La asistencia al curso computa como trabajo cuando coincide con el horario y jornada establecidos. No se convierten automáticamente en tiempo de trabajo todas las horas de cualquier formación fuera de jornada.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=14",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 32,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-33",
+      "topic": "II.7",
+      "kind": "official",
+      "text": "A la vista de lo indicado en el supuesto, ¿será válido el nombramiento de don Justo como secretario del procedimiento sancionador?",
+      "options": [
+        "No, puesto que concurre causa de abstención.",
+        "No, porque el secretario debe ser un empleado del Grupo A Subgrupo Al en todo caso.",
+        "Si, puesto que podrá ser nombrado Secretario cualquier funcionario de la misma Consejería por orden rotatorio, con independencia de las consideraciones del órgano competente.",
+        "Si, puesto que podrá ser nombrado Secretario cualquier funcionario público, de cualquier consejería, que reúna las condiciones de idoneidad para el ejercicio de estas funciones."
+      ],
+      "answer": 0,
+      "explanation": "El hermano de don Justo administra la empresa expedientada. El parentesco con el administrador de una entidad interesada constituye causa de abstención conforme al artículo 23 de la Ley 40/2015.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=14",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 33,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-34",
+      "topic": "II.7",
+      "kind": "official",
+      "text": "En el expediente sancionador que se instruya a la empresa agropecuaria, una vez notificado al presunto responsable el pliego de cargos, ¿qué plazo tendrá para contestar a los mismos y presentar o proponer la práctica de pruebas que estime necesario?",
+      "options": [
+        "5 días.",
+        "10 días.",
+        "15 días.",
+        "20 días."
+      ],
+      "answer": 1,
+      "explanation": "El artículo 5.2 del Decreto asturiano 21/1994 concede diez días para contestar al pliego de cargos y presentar o proponer pruebas. Es el plazo específico preguntado del procedimiento sancionador autonómico.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=15",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 34,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-35",
+      "topic": "II.7",
+      "kind": "official",
+      "text": "El órgano sancionador recibido el expediente del órgano instructor, podrá devolverlo al mismo para la realización de actuaciones complementarias. Dichas actuaciones complementarias deberán notificarse a los interesados que podrán formular las alegaciones que tengan por convenientes en el plazo de:",
+      "options": [
+        "7 días.",
+        "10 días.",
+        "15 días.",
+        "20 días."
+      ],
+      "answer": 0,
+      "explanation": "El Decreto asturiano 21/1994 establece siete días para alegar respecto de las actuaciones complementarias notificadas. Debe distinguirse este trámite de la contestación al pliego de cargos.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=15",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 35,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-36",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Con la información de que dispone, sin contar con ningún otro dato, considera que la conducta de la funcionaria que vende seguros de decesos durante la jornada laboral sería constitutiva de falta disciplinaria atendiendo a la normativa aplicable?",
+      "options": [
+        "Sí, y constituiría una falta disciplinaria muy grave.",
+        "Sí, y constituiría una falta disciplinaria grave.",
+        "Sí, y constituiría una falta disciplinaria leve.",
+        "Sí, y constituiría una falta disciplinaria leve con atenuante por no reincidencia."
+      ],
+      "answer": 1,
+      "explanation": "Con los datos aportados, realizar actividades profesionales privadas durante la jornada se tipifica como falta grave en la Ley 2/2023. El enunciado no aporta otros hechos que permitan calificar una falta muy grave diferente.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=15",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 36,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-37",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cuál de los siguientes, a tenor de la Ley 2/2023, 15 de marzo, de Empleo Público, es un factor que podría usted tener en cuenta, durante la instrucción del expediente disciplinario, a la hora de determinar el alcance de la sanción a imponer?",
+      "options": [
+        "El grado de intencionalidad, descuido o negligencia que se revele en la conducta de la funcionaria.",
+        "El grado consolidado por la funcionaria.",
+        "La corrección con los compañeros y los subordinados de la funcionaria.",
+        "La antigüedad en el cuerpo o escala de la funcionaria."
+      ],
+      "answer": 0,
+      "explanation": "Para graduar la sanción, la Ley 2/2023 atiende, entre otros factores, a la intencionalidad, descuido o negligencia. El grado personal consolidado y la antigüedad no sustituyen esos criterios de graduación.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=15",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 37,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-38",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Cuál sería en último caso la duración máxima del procedimiento disciplinario?",
+      "options": [
+        "Seis meses",
+        "Diez meses.",
+        "Un año.",
+        "Dos años."
+      ],
+      "answer": 2,
+      "explanation": "La plantilla aplica el plazo máximo de un año del procedimiento disciplinario regulado por la Ley 2/2023. No debe confundirse la duración del procedimiento con la prescripción de una infracción o de una sanción.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=15",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 38,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-39",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "Durante la instrucción del expediente disciplinario la persona presuntamente culpable pierde la condición de funcionaria. ¿Qué sucedería en ese caso?",
+      "options": [
+        "Dará traslado de las actuaciones a su superior jerárquico, que sin mayor dilación lo pondrá en conocimiento del Ministerio Fiscal.",
+        "Se seguirá un procedimiento sumario que permita imponer la sanción a la mayor brevedad.",
+        "Se declarará de oficio la finalización del procedimiento y se ordenará el archivo de las actuaciones.",
+        "Se hará un apercibimiento por escrito a la presunta infractora y se archivarán las actuaciones seguidamente."
+      ],
+      "answer": 2,
+      "explanation": "La pérdida de la condición funcionarial determina, en el supuesto planteado, la finalización de oficio y el archivo del procedimiento disciplinario. Ello no transforma el expediente en un procedimiento sumario para sancionar apresuradamente.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=16",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 39,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-40",
+      "topic": "III.2",
+      "kind": "official",
+      "text": "¿Qué grado tiene consolidado doña Otilia a la fecha 1 de diciembre de 2024?",
+      "options": [
+        "20.",
+        "22.",
+        "24.",
+        "26."
+      ],
+      "answer": 1,
+      "explanation": "En la situación descrita, la comisión de servicios no ha consolidado a doña Otilia el nivel 26 del puesto temporal. La plantilla mantiene su grado 22; no debe equipararse el nivel ocupado provisionalmente al grado consolidado.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=16",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 40,
+      "context": "Resumen editorial del supuesto oficial: don Justo es funcionario del Cuerpo Auxiliar, en la Consejería de Medio Rural, desde el 15 de junio de 2019. Para colaborar con una ONG disfrutó de un permiso sin sueldo de 10 meses en 2023 y solicita 9 meses en 2024. Se interesa por la provisión definitiva de la secretaría de despacho de la consejera. Se le atribuyen temporalmente funciones por razones funcionales motivadas. Su esposa, doña Otilia, es funcionaria A1 del Cuerpo Superior y tiene 15 años de antigüedad a 2 de enero de 2025. Desde el 1 de diciembre de 2022 ocupa en comisión de servicios un puesto de nivel 26 y específico C; tiene reservado el puesto de nivel 22 y específico A que desempeñaba antes. Tienen una hija de 10 años. Trabajan en Oviedo y trasladan su residencia de Gijón a Avilés en enero de 2025. Otilia es admitida en un curso del IAAP en Oviedo relacionado con su trabajo: lunes, miércoles y viernes, cuatro horas por la mañana. Se propone a Justo como secretario de un procedimiento sancionador contra una empresa administrada por su hermano. Otra funcionaria vende seguros de decesos durante parte de su jornada; se abre expediente disciplinario y se designa a Justo instructor. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-41",
+      "topic": "I.6",
+      "kind": "official",
+      "text": "¿Cómo considera que deberá proceder respecto a la solicitud de la relación de contratos menores, teniendo presente lo establecido en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno?",
+      "options": [
+        "Se entenderá desestimada por silencio administrativo, ya que la relación de contratos menores se envía trimestralmente al Portal de Transparencia.",
+        "Se inadmitirá, por referirse a cuestiones que pueden afectar a los intereses económicos y comerciales de la Administración del Principado de Asturias.",
+        "Al tratarse de información que se publica periódicamente en el Portal de Transparencia, se dictará y notificará la resolución correspondiente, indicando al solicitante cómo puede acceder a dicha información.",
+        "Una vez que la persona interesada abone las tasas correspondientes, se le facilitará el acceso al Portal de Transparencia para que consulte la relación de contratos menores."
+      ],
+      "answer": 2,
+      "explanation": "El artículo 22.3 de la Ley 19/2013 permite que, si la información ya está publicada, la resolución indique cómo acceder a ella. Que se publique periódicamente no justifica desestimar por silencio ni inadmitir automáticamente.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=16",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 41,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-43",
+      "topic": "IV.3",
+      "kind": "official",
+      "text": "Una vez autorizado el gasto y adjudicado el contrato de las mochilas, las mismas son entregadas de conformidad con lo previsto, y se recibe entonces la factura, ¿qué documento contable tendrá que expedirse en ese momento, según lo previsto en la Resolución de 16 de mayo de 2005 ya mencionada?",
+      "options": [
+        "Un documento contable O, de reconocimiento de la obligación o liquidación del gasto.",
+        "Un documento contable ADO, de compromiso de gasto y propuesta de pago.",
+        "Un documento contable OJ, de pago a justificar, por si se detectara alguna tara en las mochilas.",
+        "Un documento contable ADO, de autorización y disposición de gasto, y reconocimiento de la obligación y orden de pago."
+      ],
+      "answer": 0,
+      "explanation": "Ya autorizada y comprometida la compra, la entrega conforme y la factura permiten reconocer la obligación mediante un documento O. No corresponde repetir las fases anteriores ni convertirla en un pago a justificar.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=17",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 43,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-45",
+      "topic": "I.6",
+      "kind": "official",
+      "text": "A la vista de la solicitud de acceso a información pública que recibe el día 4 de agosto, y teniendo presente lo establecido en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno ¿cómo considera que deberá proceder?",
+      "options": [
+        "Se requerirá a la interesada para que, en un plazo de diez días, concrete la información solicitada, indicándole que, en caso de no hacerlo, se le tendrá por desistida, e informándole también de la suspensión del plazo para dictar resolución.",
+        "Se requerirá a la interesada para que, en un plazo de quince días, concrete la información solicitada, indicándole que, en caso de no hacerlo, se le tendrá por desistida, e informándole también de la suspensión del plazo para dictar resolución.",
+        "Se requerirá a la interesada para que, en un plazo de diez días, concrete la información solicitada, indicándole que, en caso de no hacerlo, se le tendrá por desistida, e informándole no obstante de que no se suspende el plazo para dictar resolución.",
+        "Se requerirá a la interesada para que, en un plazo de quince días, concrete la información solicitada, indicándole que, en caso de no hacerlo, se le tendrá por desistida, e informándole no obstante de que no se suspende el plazo para dictar resolución."
+      ],
+      "answer": 0,
+      "explanation": "El artículo 19.2 de la Ley 19/2013 fija diez días para concretar una solicitud insuficientemente identificada. El requerimiento advierte del desistimiento si no se concreta y de la suspensión del plazo para resolver.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=18",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 45,
+      "context": "Resumen editorial del supuesto oficial: una Consejería convoca ayudas para comprar vehículos eléctricos, mediante comparación y prelación de solicitudes según criterios de las bases. Ya se ha realizado la retención de crédito. El extracto se publica el 1 de septiembre de 2025 y concede 15 días naturales desde el día siguiente. Los solicitantes son personas físicas; uno, mayor de edad y con capacidad de obrar, presenta mediante representante cuya representación no acredita; a otra solicitud le falta la factura exigida. Usted es secretario de la Comisión de Valoración y debe remitir información de las ayudas concedidas al Portal de Transparencia. La Consejería compra mochilas para unas jornadas, en una única entrega, por 1.000 euros más el 21 % de IVA. También contrata la limpieza de unas instalaciones por 14.850 euros sin IVA, del 1 de julio de 2025 al 20 de junio de 2026; el servicio se inicia el 1 de julio. El 4 de agosto llega una solicitud de acceso que no identifica suficientemente la información; el 10 de agosto se solicita la relación de contratos menores del primer trimestre. Para los datos completos, consulte el PDF original."
+    },
+    {
+      "id": "iaap-c1-2025-second-50",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "¿Dónde se puede consultar el recuento de palabras del documento mientras se escribe en la versión online de Word 365?",
+      "options": [
+        "En la pestaña Vista > Recuento de palabras",
+        "En la pestaña Inicio > Estadísticas del documento",
+        "En la barra de estado, en la parte inferior de la ventana, donde aparece el recuento de palabras.",
+        "En Archivo > Información > Propiedades avanzadas."
+      ],
+      "answer": 2,
+      "explanation": "Word web muestra el recuento de palabras en la barra de estado inferior. Esta es la ubicación señalada en el examen; no hay que acudir a propiedades avanzadas de la versión de escritorio.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=19",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 50
+    },
+    {
+      "id": "iaap-c1-2025-second-51",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "En la versión online de Word 365, ¿en qué grupo de opciones dentro de la pestaña inicio de la cinta clásica, podremos establecer el interlineado de nuestro documento Word?",
+      "options": [
+        "Fuente.",
+        "Estilos.",
+        "Edición.",
+        "Párrafo."
+      ],
+      "answer": 3,
+      "explanation": "El interlineado es una propiedad de párrafo. En la cinta clásica descrita por el examen se configura en el grupo Párrafo de Inicio, aunque la disposición visual puede variar con la interfaz.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=20",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 51
+    },
+    {
+      "id": "iaap-c1-2025-second-52",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "En un documento de la versión online de Word 365 compartido con coautoría en tiempo real, ¿cómo se representa normalmente en la interfaz que otra persona está editando al mismo tiempo?",
+      "options": [
+        "Mediante un mensaje emergente que bloquea la edición hasta que la otra persona cierre el documento.",
+        "Solo mediante un correo electrónico automático que informa de los cambios al final de la sesión.",
+        "Mediante marcadores o cursores de colores en el contenido y avatares o iniciales junto al botón Compartir.",
+        "Únicamente mediante un contador numérico en la barra de estado sin resaltar posiciones en el texto."
+      ],
+      "answer": 2,
+      "explanation": "La coautoría permite editar simultáneamente y muestra la presencia de otras personas mediante cursores, marcas e iniciales o avatares. No obliga a que una persona cierre el documento para que otra pueda escribir.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=20",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 52
+    },
+    {
+      "id": "iaap-c1-2025-second-54",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "AI pulsar el botón Compartir en la esquina superior derecha de la versión online de Word 365, ¿qué acción se puede realizar?",
+      "options": [
+        "Se imprime el documento.",
+        "Se envía el documento como archivo adjunto en Outlook sin opciones adicionales",
+        "Se conceden permisos para que otras personas puedan ver o editar el documento almacenado en OneDrive o SharePoint.",
+        "Se exporta el documento directamente a formato PDF protegido"
+      ],
+      "answer": 2,
+      "explanation": "Compartir permite dar acceso de lectura o edición al documento en OneDrive o SharePoint, según los permisos disponibles. No equivale a imprimir ni a enviar siempre una copia adjunta por correo.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=20",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 54
+    },
+    {
+      "id": "iaap-c1-2025-second-55",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "¿Qué ocurre con los cambios que se realizan en un documento abierto en la versión online de Word 365 y almacenado en OneDrive?",
+      "options": [
+        "Es necesario pulsar Archivo > Guardar cada pocos minutos.",
+        "Solo se guardan al cerrar la aplicación.",
+        "Se guardan automáticamente en línea de forma periódica mientras se edita el documento.",
+        "Se pierden al cambiar de pestaña en el explorador."
+      ],
+      "answer": 2,
+      "explanation": "Word web guarda automáticamente los cambios del documento almacenado en la nube mientras se edita con conexión. No exige utilizar periódicamente Guardar ni esperar a cerrar la aplicación.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=20",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 55
+    },
+    {
+      "id": "iaap-c1-2025-second-56",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Es posible ocultar una hoja en un libro de Excel?",
+      "options": [
+        "No es posible ocultar hojas.",
+        "Sí, es posible situándonos en el nombre de la hoja que queremos ocultar, con el botón derecho del ratón seleccionando la opción \"Ocultar\".",
+        "Las hojas solo pueden ser duplicadas o eliminadas.",
+        "Sí, es posible situándonos en el nombre de la hoja que queremos ocultar, con el botón derecho del ratón seleccionando la opción \"Reordenar\"."
+      ],
+      "answer": 1,
+      "explanation": "El menú contextual de la pestaña de una hoja permite ocultarla. Ocultar no elimina sus datos ni constituye por sí mismo una medida de protección de información confidencial.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=21",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 56
+    },
+    {
+      "id": "iaap-c1-2025-second-57",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Es posible utilizar el color para filtrar las filas en Excel?",
+      "options": [
+        "Solo es posible filtrar por el color de la fuente",
+        "Solo es posible filtrar por el color de celda",
+        "Es posible filtrar por el color de fuente o de celda.",
+        "No es posible filtrar por color de ninguna manera."
+      ],
+      "answer": 2,
+      "explanation": "Excel permite filtrar por color de celda o de fuente. El filtro muestra las filas que cumplen el criterio; no se limita necesariamente a valores de texto o números.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=21",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 57
+    },
+    {
+      "id": "iaap-c1-2025-second-58",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Cómo se denomina la función que permite unir varios elementos de texto en uno solo?",
+      "options": [
+        "Unir.",
+        "Concatenar.",
+        "Texto.",
+        "Largo."
+      ],
+      "answer": 1,
+      "explanation": "CONCATENAR une elementos de texto en una sola cadena. Excel también dispone de otras funciones de concatenación, pero entre las alternativas del examen CONCATENAR es la correcta.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=21",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 58
+    },
+    {
+      "id": "iaap-c1-2025-second-59",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Cómo se denomina la función que devuelve el número especificado de caracteres del principio de una cadena de texto?:",
+      "options": [
+        "Derecha.",
+        "Izquierda.",
+        "Dividir Texto.",
+        "Hallar."
+      ],
+      "answer": 1,
+      "explanation": "IZQUIERDA devuelve caracteres desde el comienzo de una cadena. DERECHA parte del final y HALLAR devuelve una posición, no el fragmento inicial solicitado.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=21",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 59
+    },
+    {
+      "id": "iaap-c1-2025-second-60",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Qué fórmula permite calcular el promedio de los valores contenidos en el rango C1:C10 en la versión online de Excel 365?",
+      "options": [
+        "=MEDIA(C1:C10)",
+        "=PROM(C1:C10)",
+        "=PROMEDIO(C1:C10)",
+        "=AVC(C1:C10)"
+      ],
+      "answer": 2,
+      "explanation": "PROMEDIO(C1:C10) calcula la media aritmética de los valores numéricos del rango. MEDIA, PROM y AVC no son el nombre de esa función en la versión española preguntada.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=21",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 60
+    },
+    {
+      "id": "iaap-c1-2025-second-61",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "¿Dónde se encuentra la opción «Quitar duplicados» en la versión online de Excel 365 cuando se trabaja con un rango o tabla de datos?",
+      "options": [
+        "Pestaña Inicio > Eliminar.",
+        "Pestaña Datos > Quitar duplicados.",
+        "Pestaña Revisar > Revisar duplicados.",
+        "Pestaña Vista > Eliminar."
+      ],
+      "answer": 1,
+      "explanation": "La herramienta Quitar duplicados se encuentra en Datos. Elimina registros repetidos según las columnas seleccionadas; conviene conservar una copia si se necesita mantener el conjunto original.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=22",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 61
+    },
+    {
+      "id": "iaap-c1-2025-second-62",
+      "topic": "V.4",
+      "kind": "official",
+      "text": "En el correo electrónico Outlook 365, se quiere crear una lista de contactos para enviar correos a un grupo de personas con un solo nombre. ¿Qué opción se utiliza?",
+      "options": [
+        "Desde el botón \"Personas\" del Panel de navegación, seleccionar \"Nuevo grupo de Microsoft 365\".",
+        "Desde el botón \"Correo\" del Panel de navegación, seleccionar \"Nueva carpeta\" y añadir contactos como miembros.",
+        "Desde el botón \"Contactos\" del panel de navegación, utilizar el desplegable del botón \"Nuevo contacto\" y elegir \"Nueva lista de contactos\".",
+        "En la bandeja de entrada, marcar varios mensajes y elegir \"Crear lista\" en el menú contextual."
+      ],
+      "answer": 2,
+      "explanation": "Una lista de contactos agrupa destinatarios para dirigirles un correo mediante un nombre. No es lo mismo que un grupo de Microsoft 365, que añade recursos compartidos y otras funciones.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=22",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 62
+    },
+    {
+      "id": "iaap-c1-2025-second-63",
+      "topic": "V.4",
+      "kind": "official",
+      "text": "¿Mediante qué opción es posible enviar una copia de un correo electrónico a un destinatario sin que su dirección sea visible para los demás receptores?",
+      "options": [
+        "Introduciendo su dirección en el campo \"Para\".",
+        "Introduciendo su dirección en el campo \"CC\".",
+        "Introduciendo su dirección en el campo \"CCO\".",
+        "Introduciendo su dirección en el campo \"CC\" y solicitando confirmación de entrega."
+      ],
+      "answer": 2,
+      "explanation": "CCO es copia oculta: permite enviar una copia sin mostrar esa dirección a los demás destinatarios. El campo CC muestra las direcciones y pedir confirmación de entrega no las oculta.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=22",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 63
+    },
+    {
+      "id": "iaap-c1-2025-second-64",
+      "topic": "V.4",
+      "kind": "official",
+      "text": "¿Se puede programar el envío de un correo electrónico en la aplicación Outlook 365?",
+      "options": [
+        "Esta opción no es posible, puesto que los envíos son inmediatos.",
+        "Sí, una vez redactado el mensaje, en el desplegable del botón \"Enviar\" > \"Programar envío\".",
+        "Sí, una vez redactado el mensaje, desde el menú \"Archivo\" > Opciones de mensaje.",
+        "Sí, una vez redactado el mensaje, desde el menú \"Mensaje\" > Guardar borrador."
+      ],
+      "answer": 1,
+      "explanation": "En Outlook web, el desplegable de Enviar permite programar el envío para más tarde. Guardar como borrador conserva el mensaje, pero no programa por sí mismo su envío.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=22",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 64
+    },
+    {
+      "id": "iaap-c1-2025-second-65",
+      "topic": "V.4",
+      "kind": "official",
+      "text": "En la versión del correo electrónico Outlook 365, ¿dónde se configuran las reglas de bandeja de entrada que actúan automáticamente sobre los mensajes entrantes?",
+      "options": [
+        "En la pestaña Inicio de la cinta, grupo \"Mover\", botón \"Reglas rápidas\".",
+        "En el menú contextual de cada mensaje, opción \"Convertir en regla predeterminada\".",
+        "En Configuración > Correo > Reglas.",
+        "Desde el botón \"Contactos\" del panel de navegación, dentro de las propiedades de cada contacto."
+      ],
+      "answer": 2,
+      "explanation": "Las reglas de correo se administran en Configuración, Correo, Reglas, en la interfaz del examen. Aplican condiciones y acciones automáticamente a los mensajes entrantes.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=22",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 65
+    },
+    {
+      "id": "iaap-c1-2025-second-68",
+      "topic": "V.3",
+      "kind": "official",
+      "text": "En la versión online de Excel 365, al seleccionar varias celdas con números, ¿qué información puede mostrar la barra de estado de forma automática?",
+      "options": [
+        "Operaciones como PROMEDIO, CONTAR y SUMA sobre el rango seleccionado.",
+        "Solo el nombre del archivo y el usuario activo.",
+        "Exclusivamente el número de página y el nivel de zoom.",
+        "Solo las estadísticas del libro, suma de las celdas seleccionadas y el nivel de zoom."
+      ],
+      "answer": 0,
+      "explanation": "Al seleccionar celdas numéricas, la barra de estado puede mostrar cálculos como promedio, recuento y suma. Esa consulta rápida no inserta una fórmula en una celda del libro.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=23",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 68
+    },
+    {
+      "id": "iaap-c1-2025-second-69",
+      "topic": "V.2",
+      "kind": "official",
+      "text": "Dentro de la pestaña Revisar, con el diseño de cinta de opciones>cinta clásica, de la versión online de Word 365, ¿qué opción permite activar el seguimiento de cambios solo para la propia cuenta del usuario que edita?",
+      "options": [
+        "Revisar > Comentarios > Solo los míos.",
+        "Revisar > Seguimiento > Control de cambios > Solo los míos.",
+        "Revisar > Revisión > Modo sencillo.",
+        "Revisar > Vista de revisiones > Mis cambios."
+      ],
+      "answer": 1,
+      "explanation": "La opción Solo los míos dentro de Control de cambios limita el seguimiento a las ediciones propias. No debe confundirse con mostrar únicamente los comentarios redactados por el usuario.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=23",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 69
+    },
+    {
+      "id": "iaap-c1-2025-second-70",
+      "topic": "V.4",
+      "kind": "official",
+      "text": "Se desea crear una nueva categoría de color para organizar mejor los correos. ¿Qué acción del correo electrónico Outlook 365 permite hacerlo según la interfaz actual?",
+      "options": [
+        "En la cinta de opciones Abrir > Configuración > Correo > Redactar y responder >Nueva categoría.",
+        "En la cinta de opciones Inicio > Clasifica este elemento > Nueva categoría.",
+        "En la bandeja de entrada, seleccionar \"Mover a\" y luego \"Crear categoría\".",
+        "En la cinta de opciones Organizar, crear un nuevo grupo y asignarle un color como categoría."
+      ],
+      "answer": 1,
+      "explanation": "La acción de clasificación permite crear una categoría y asignarle un color. Las categorías organizan elementos mediante etiquetas; no crean una carpeta ni un grupo de destinatarios.",
+      "reference": "Plantilla publicada el 2 de febrero de 2026, firmada el 8 de enero; página 25 del PDF. Explicación editorial.",
+      "source": "https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071#page=23",
+      "exam": "IAAP · Administrativo C1 · OEP 2022/2023 · segunda prueba · 2025",
+      "number": 70
+    },
+    {
+      "id": "original-security-2026-1",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Según el apartado 3.1 de la Política asturiana de seguridad de 2026, ¿quién debe apoyar la seguridad de la información?",
+      "options": [
+        "Todos los niveles de la entidad.",
+        "Solo las empresas proveedoras.",
+        "Únicamente el personal de informática.",
+        "Exclusivamente el delegado de protección de datos."
+      ],
+      "answer": 0,
+      "explanation": "El alcance estratégico exige compromiso y apoyo en todos los niveles e integración coherente con las demás iniciativas de la entidad.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Alcance estratégico. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-2",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Una organización instala un antivirus, pero no forma al personal ni define procedimientos. ¿Qué principio del apartado 3.1 está desatendiendo?",
+      "options": [
+        "La publicidad universal de los sistemas.",
+        "La sustitución de la responsabilidad del servicio.",
+        "La conservación indefinida de datos.",
+        "La seguridad como proceso integral."
+      ],
+      "answer": 3,
+      "explanation": "El proceso integral comprende elementos técnicos, humanos, materiales y organizativos; no se satisface únicamente mediante una herramienta técnica.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Proceso integral. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-3",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué objetivo persigue la gestión de riesgos en la Política asturiana de seguridad de 2026?",
+      "options": [
+        "Eliminar todos los servicios digitales para evitar amenazas.",
+        "Reducir los riesgos hasta niveles aceptables mediante medidas equilibradas.",
+        "Aplicar siempre la medida más cara.",
+        "Garantizar matemáticamente que nunca ocurra ningún incidente."
+      ],
+      "answer": 1,
+      "explanation": "Las medidas se eligen ponderando naturaleza de los datos, impacto, probabilidad, eficacia y coste; el objetivo es un entorno controlado con riesgos aceptables.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Gestión basada en riesgos. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-4",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué secuencia de actuaciones recoge expresamente el apartado 3.1 de la Política asturiana de seguridad?",
+      "options": [
+        "Publicidad, difusión, venta y archivo.",
+        "Prevención, detección, respuesta y conservación.",
+        "Identificación, sanción, despido y publicación.",
+        "Adquisición, amortización, baja y subasta."
+      ],
+      "answer": 1,
+      "explanation": "La política combina evitar ataques, detectar amenazas, responder a incidentes y conservar la integridad y disponibilidad de la información.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Prevención, detección, respuesta y conservación. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-5",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué combinación corresponde a las líneas de defensa multicapa de la Política asturiana de seguridad?",
+      "options": [
+        "Una copia impresa del inventario sin otros controles.",
+        "Solo contraseñas más largas.",
+        "Únicamente dos programas antivirus simultáneos.",
+        "Medidas organizativas, físicas y lógicas."
+      ],
+      "answer": 3,
+      "explanation": "Las capas de defensa combinan distintas clases de medidas para reducir el impacto y la probabilidad de que un incidente comprometa todo el sistema.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Defensa multicapa. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-6",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Un sistema se revisó al instalarse hace años y sus controles nunca se han vuelto a evaluar. ¿Qué exige el apartado 3.1?",
+      "options": [
+        "Revisarlo únicamente si cambia su nombre comercial.",
+        "Vigilancia continua y reevaluación periódica.",
+        "Revisarlo solo después de una sanción firme.",
+        "Mantener la configuración original indefinidamente."
+      ],
+      "answer": 1,
+      "explanation": "La vigilancia detecta amenazas y vulnerabilidades; la reevaluación periódica mantiene la protección alineada con las necesidades y exigencias actuales.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Vigilancia y reevaluación. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-7",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué funcionalidad deben proporcionar los sistemas según el principio de seguridad por defecto de la Orden asturiana de 2026?",
+      "options": [
+        "La mínima necesaria para el servicio para el que fueron diseñados.",
+        "Acceso anónimo de administración por comodidad.",
+        "Todas las funciones posibles, aunque no se utilicen.",
+        "Servicios experimentales abiertos a cualquier usuario."
+      ],
+      "answer": 0,
+      "explanation": "La seguridad se incorpora al diseño y a la configuración inicial, limitando la funcionalidad a lo necesario para prestar el servicio previsto.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Seguridad por defecto y desde el diseño. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-8",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué responsabilidades deben mantenerse diferenciadas en el apartado 3.1 de la Política asturiana de seguridad?",
+      "options": [
+        "La atención telefónica y la atención presencial en todos los casos.",
+        "La lectura y la escritura de cualquier documento.",
+        "La seguridad de los sistemas y la prestación de los servicios.",
+        "La propiedad del edificio y el pago de suministros."
+      ],
+      "answer": 2,
+      "explanation": "La política separa expresamente la responsabilidad de seguridad de los sistemas de la responsabilidad de prestar los servicios.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Diferenciación de responsabilidades. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-9",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Cómo deben tratarse los datos respecto de la persona interesada según los principios de la Orden asturiana de 2026?",
+      "options": [
+        "En secreto, incluso frente al propio interesado, en todos los casos.",
+        "Sin informar nunca de la finalidad del tratamiento.",
+        "Según la conveniencia comercial de terceros.",
+        "De forma lícita, leal y transparente."
+      ],
+      "answer": 3,
+      "explanation": "La licitud, lealtad y transparencia son exigencias expresas del apartado 3.1 respecto del tratamiento de los datos personales.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Licitud, lealtad y transparencia. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-10",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué exige la Política asturiana de 2026 antes de tratar datos personales?",
+      "options": [
+        "Que se utilice un programa con licencia de pago.",
+        "Que el tratamiento resulte interesante para cualquier empleado.",
+        "Que los datos sean fáciles de obtener en internet.",
+        "Que exista una causa de legitimación aplicable de los artículos 6 y 9 del RGPD."
+      ],
+      "answer": 3,
+      "explanation": "La disponibilidad técnica de los datos no legitima su uso: debe existir una base jurídica y, cuando corresponda, una excepción válida para categorías especiales.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Legitimación. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-11",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Una unidad recoge datos para una finalidad definida y quiere reutilizarlos de modo incompatible con ella. ¿Qué principio debe examinar?",
+      "options": [
+        "Limitación de la finalidad.",
+        "Libre reutilización sin límites.",
+        "Amortización del equipamiento.",
+        "Defensa física multicapa."
+      ],
+      "answer": 0,
+      "explanation": "La política exige fines determinados, explícitos y legítimos y rechaza los tratamientos posteriores incompatibles con esos fines.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Limitación de finalidad. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-12",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Un formulario pide información que no necesita para prestar el servicio. ¿Qué principio del apartado 3.1 incumple?",
+      "options": [
+        "Conservación permanente.",
+        "Publicidad activa del código fuente.",
+        "Disponibilidad de la red.",
+        "Minimización de datos."
+      ],
+      "answer": 3,
+      "explanation": "Los datos deben ser adecuados y pertinentes, y limitarse a lo necesario para la finalidad del tratamiento; no procede recabarlos por simple curiosidad.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Minimización. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-13",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué exige el principio de exactitud de la Política asturiana de protección de datos?",
+      "options": [
+        "Rectificar solo cuando hayan transcurrido cinco años.",
+        "Presumir que cualquier dato antiguo sigue siendo correcto.",
+        "Conservar los errores para no alterar el historial en ningún caso.",
+        "Rectificar o suprimir sin dilación los datos inexactos mediante medidas razonables."
+      ],
+      "answer": 3,
+      "explanation": "La exactitud exige datos correctos y, cuando sea necesario, actualizados; las medidas se valoran en relación con la finalidad del tratamiento.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Exactitud. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-14",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Durante cuánto tiempo se conservan, como regla, los datos conforme al apartado 3.1 de la Orden asturiana de 2026?",
+      "options": [
+        "Exactamente un mes con independencia de la finalidad.",
+        "Hasta que el soporte informático se averíe.",
+        "El necesario para la finalidad y para determinar posibles responsabilidades.",
+        "Indefinidamente en todos los tratamientos."
+      ],
+      "answer": 2,
+      "explanation": "El plazo se vincula a finalidad y responsabilidades. La política contempla conservación más larga para ciertos fines de archivo, investigación o estadística en los términos del RGPD.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Plazo de conservación. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-15",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué protege el principio de integridad y confidencialidad de la Política asturiana?",
+      "options": [
+        "Exclusivamente frente al acceso desde el extranjero.",
+        "Únicamente frente a errores ortográficos.",
+        "Solo frente a la lectura de datos en papel.",
+        "Frente al tratamiento no autorizado o ilícito y la pérdida, destrucción o daño accidental."
+      ],
+      "answer": 3,
+      "explanation": "La protección requiere medidas técnicas y organizativas apropiadas y alcanza tanto usos ilícitos como pérdidas o daños accidentales.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Integridad y confidencialidad. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-16",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué debe poder hacer el responsable del tratamiento además de cumplir la normativa?",
+      "options": [
+        "Delegar toda responsabilidad en quien compra los equipos.",
+        "Demostrar que el tratamiento cumple mediante medidas adecuadas.",
+        "Esperar siempre una reclamación antes de actuar.",
+        "Sustituir las medidas por una declaración verbal."
+      ],
+      "answer": 1,
+      "explanation": "La responsabilidad proactiva exige aplicar medidas apropiadas y poder acreditar el cumplimiento, no limitarse a afirmar que se respeta la normativa.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Responsabilidad proactiva. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-17",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué obligación organizativa impone la Política asturiana respecto de los derechos de las personas?",
+      "options": [
+        "Conceder cualquier petición sin comprobar si el derecho procede.",
+        "Permitir solo solicitudes presentadas por abogados.",
+        "Eliminar los canales para ejercer derechos cuando hay muchas peticiones.",
+        "Facilitar el ejercicio de los derechos que procedan, incluidos acceso, rectificación, supresión y portabilidad."
+      ],
+      "answer": 3,
+      "explanation": "La política exige medidas que garanticen el ejercicio adecuado de los derechos aplicables; no implica que toda solicitud deba estimarse sin examinar sus requisitos.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Derechos de los afectados. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-18",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿A qué deben ser proporcionales las medidas de protección, detección y recuperación?",
+      "options": [
+        "Únicamente al precio del ordenador.",
+        "A los riesgos y a la criticidad y valor de la información, tratamientos y servicios.",
+        "Solo al número de pantallas del despacho.",
+        "Al tamaño del logotipo institucional."
+      ],
+      "answer": 1,
+      "explanation": "La proporcionalidad relaciona la protección con el riesgo y con la importancia de lo protegido, evitando elegir controles sin atender a esas circunstancias.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Proporcionalidad. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-19",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿Qué requiere el proceso de verificación previsto en el apartado 3.1?",
+      "options": [
+        "Evaluar regularmente la eficacia de las medidas técnicas y organizativas.",
+        "No repetir evaluaciones después de la primera auditoría.",
+        "Revisar únicamente la apariencia de los formularios.",
+        "Comprobar una sola vez que el equipo enciende."
+      ],
+      "answer": 0,
+      "explanation": "La verificación, evaluación y valoración deben ser regulares y comprobar la eficacia real de las medidas que protegen los tratamientos.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Proceso de verificación. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-20",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "Una aplicación se entrega con ajustes iniciales que exponen datos innecesariamente. ¿Qué principio de protección de datos debe incorporarse a su configuración?",
+      "options": [
+        "Conservación ilimitada por defecto.",
+        "Acceso de administración para toda la plantilla.",
+        "Publicación por defecto de todos los registros.",
+        "Protección de datos por defecto."
+      ],
+      "answer": 3,
+      "explanation": "La política promueve diseñar y configurar los sistemas para que su estado inicial garantice la protección de datos, sin exigir corregir después una configuración innecesariamente expuesta.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Protección de datos por defecto. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
+    },
+    {
+      "id": "original-security-2026-21",
+      "topic": "I.5",
+      "kind": "original",
+      "text": "¿En qué momento debe estar presente la protección de datos según la Orden asturiana de 2026?",
+      "options": [
+        "Solo después de recibir la primera reclamación.",
+        "Únicamente cuando el sistema vaya a retirarse.",
+        "Desde las primeras fases de concepción del proyecto.",
+        "Tras publicar todos los datos para probar la aplicación."
+      ],
+      "answer": 2,
+      "explanation": "La protección desde el diseño incorpora los requisitos del RGPD y los derechos de las personas desde la concepción del proyecto, no solo al final de su desarrollo.",
+      "reference": "Orden de 25 de marzo de 2026, anexo, apartado 3.1: Protección de datos desde el diseño. BOPA 9 de abril de 2026, código 2026-02574.",
+      "source": "https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf"
     }
   ],
   "resources": [
@@ -8816,5 +10236,6 @@
       "index": "https://iaap.asturias.es/seleccion/personal-funcionario/grupo-a2"
     }
   ],
-  "researchNote": "Búsqueda amplia, no exhaustiva de internet. Se separan preguntas originales, selección del examen oficial IAAP 2025 y enlaces a bancos de terceros. Los bancos externos no se han importado ni auditado íntegramente. Se excluyen preguntas anuladas, fuera de programa o con extracción/solución dudosa. La vigencia deberá ajustarse a la fecha exigida por la convocatoria; esta edición no garantiza cobertura completa ni sustituye fuentes oficiales."
+  "researchNote": "Búsqueda amplia, no exhaustiva de internet. Se separan preguntas originales, selección de la primera y segunda pruebas oficiales IAAP 2025 y enlaces a bancos de terceros. Los bancos externos no se han importado ni auditado íntegramente. Se excluyen preguntas anuladas, fuera de programa o con extracción/solución dudosa. La vigencia deberá ajustarse a la fecha exigida por la convocatoria; esta edición no garantiza cobertura completa ni sustituye fuentes oficiales.",
+  "edition": "2026-09-10.2"
 }

@@ -1,8 +1,8 @@
-# Cobertura y búsqueda de test · 9 de septiembre de 2026
+# Cobertura y búsqueda de test · 10 de septiembre de 2026
 
 ## Resultado
 
-448 preguntas integradas: 377 originales de práctica y 71 seleccionadas del examen oficial de Administrativo C1, primera prueba modelo A, OEP 2022/2023, celebrado en el proceso de 2025. Se consultaron los índices de C1, C2 y A2 del IAAP y se descargaron 63 documentos. Se conservan en la biblioteca 47 documentos de C1/C2 y Gestión A2 pertinentes como archivo de consulta; los documentos de especialidades no relacionadas se descartan. Los modelos alternativos y las plantillas son documentos, no exámenes únicos adicionales.
+527 preguntas integradas: 398 originales de práctica y 129 oficiales de Administrativo C1, OEP 2022/2023: 71 de la primera prueba modelo A y 58 de la segunda prueba de 2025. Se consultaron los índices de C1, C2 y A2 del IAAP y se descargaron 63 documentos. Se conservan en la biblioteca 47 documentos de C1/C2 y Gestión A2 pertinentes como archivo de consulta; los documentos de especialidades no relacionadas se descartan. Los modelos alternativos y las plantillas son documentos, no exámenes únicos adicionales.
 
 73 recursos externos únicos, algunos compartidos entre temas. La cifra no es un número de test completos ni suma preguntas publicitadas por terceros. Se buscaron test por norma, materia autonómica y aplicación digital; se siguieron índices de proveedores para encontrar enlaces directos y se comprobó su respuesta HTTP. Un enlace accesible no acredita que todo su banco sea gratuito ni que todas sus respuestas sean correctas.
 
@@ -23,6 +23,14 @@ La plantilla definitiva figura en la página 31, fechada el 17 de noviembre de 2
 
 Las preguntas oficiales se conservan como práctica de ese examen: comprobar una plantilla no equivale a actualizar jurídicamente todo el contenido a 2026. Las explicaciones son editoriales y no se atribuyen al tribunal.
 
+## Ampliación del 10 de septiembre de 2026
+
+Se añaden **58 preguntas oficiales de la segunda prueba**: 40 sobre supuestos administrativos y 18 de Word, Excel y Outlook web. Las claves se cotejan con las casillas de la página 25 de la [segunda prueba oficial](https://iaap.asturias.es/documents/150386/4280777/SegundaPruebaTL_Advo_OEP22_23.pdf/c868d6ce-eea3-70a7-65bb-013cc7c2e230?t=1784633091071), firmada el 8 de enero de 2026 y publicada el 2 de febrero. Los datos necesarios del supuesto se muestran en un resumen editorial explícito; el PDF conserva el enunciado completo. Se reparan las extracciones de las preguntas 60 y 64 mediante lectura de su página original.
+
+Se excluyen las preguntas 8, 12, 18 y 42, dependientes de tablas presupuestarias no incorporadas; las 46–49 y 66, sobre Windows 10; la 53, sobre bordes de página de Word web, pendiente de aclaración frente a la documentación de Microsoft; la 67, por combinar acciones distintas en una alternativa; y la 44, por necesitar mayor precisión sobre acceso a información del procedimiento. No son preguntas declaradas anuladas por esta aplicación: son exclusiones editoriales de esta selección.
+
+También se añaden **21 preguntas originales del apartado 3.1** de la [Orden de 25 de marzo de 2026](https://www.asturias.es/bopa/2026/04/09/2026-02574.pdf): ocho sobre principios de seguridad y trece sobre protección de datos. El texto se contrasta con la disposición oficial. La fuente normativa no se cuenta como un nuevo banco externo de test.
+
 ## Cobertura por tema
 
 | Tema | Materia | Integradas | Oficiales | Recursos externos | Alcance y límites |
@@ -31,33 +39,33 @@ Las preguntas oficiales se conservan como práctica de ese examen: comprobar una
 | I.2 | Constitución: justicia, territorio y reforma | 13 | 3 | 6 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | I.3 | Estatuto de Autonomía | 13 | 3 | 7 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | I.4 | Presidente, Gobierno y organización asturiana | 14 | 4 | 4 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| I.5 | Protección de datos y seguridad de la información | 11 | 1 | 3 | Práctica de protección de datos. No se ha integrado un test específico de los principios 3.1 de la Orden de 25 de marzo de 2026. El enunciado oficial menciona «Ficheros de titularidad pública» con una estructura que no corresponde al título IV actual de la LO 3/2018; no se ha trasladado como si fuera vigente. |
-| I.6 | Transparencia y buen gobierno | 12 | 2 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
+| I.5 | Protección de datos y seguridad de la información | 32 | 1 | 3 | Incluye protección de datos y 21 preguntas originales que recorren los principios de seguridad y protección de datos del apartado 3.1 de la Orden de 25 de marzo de 2026. La mención del temario a «Ficheros de titularidad pública» no se ha presentado como si fuera la estructura vigente de la LO 3/2018. Cobertura parcial del resto del tema. |
+| I.6 | Transparencia y buen gobierno | 15 | 5 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | I.7 | Igualdad y violencia de género en Asturias | 11 | 1 | 4 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | I.8 | Discapacidad y dependencia | 12 | 2 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | II.1 | Fuentes del Derecho de la Unión Europea | 10 | 0 | 2 | Se practica el efecto jurídico de tratados, reglamentos, directivas y decisiones. Se excluyen preguntas sobre composición de instituciones europeas que no corresponden al alcance literal de este tema. |
-| II.2 | Procedimiento administrativo común | 22 | 7 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| II.3 | Régimen jurídico del sector público | 14 | 2 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
+| II.2 | Procedimiento administrativo común | 28 | 13 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
+| II.3 | Régimen jurídico del sector público | 15 | 3 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | II.4 | Régimen jurídico de la Administración asturiana | 11 | 1 | 2 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| II.5 | Contratos del sector público | 23 | 8 | 2 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| II.6 | Subvenciones | 13 | 3 | 3 | Predomina la Ley General de Subvenciones. La cobertura del Decreto asturiano 71/1992 es reducida y procede de una pregunta oficial seleccionada. |
-| II.7 | Potestad y procedimiento sancionador | 13 | 3 | 4 | Principios sancionadores de la Ley 40/2015 y una pregunta del Decreto 21/1994. La cobertura del procedimiento asturiano es reducida. |
+| II.5 | Contratos del sector público | 28 | 13 | 2 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
+| II.6 | Subvenciones | 15 | 5 | 3 | Predomina la Ley General de Subvenciones. La cobertura del Decreto asturiano 71/1992 es reducida y procede de una pregunta oficial seleccionada. |
+| II.7 | Potestad y procedimiento sancionador | 16 | 6 | 4 | Principios sancionadores y selección oficial del Decreto 21/1994: pliego de cargos, actuaciones complementarias y abstención. Cobertura parcial del procedimiento autonómico. |
 | II.8 | Responsabilidad patrimonial | 12 | 2 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | II.9 | Expropiación forzosa | 12 | 2 | 2 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | III.1 | Estatuto Básico del Empleado Público | 14 | 2 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| III.2 | Empleo público y jornada en Asturias | 16 | 6 | 4 | Selección de conceptos de la Ley 2/2023. Cobertura limitada del Decreto 72/2013 y sus modificaciones; comprobar reglas de jornada y permisos aplicables al examen. |
+| III.2 | Empleo público y jornada en Asturias | 33 | 23 | 4 | Ley 2/2023 y supuestos oficiales de jornada, vacaciones, permisos, provisión y régimen disciplinario. Se conserva la solución histórica del examen de 2025, publicado en 2026; comprobar modificaciones exigibles en la convocatoria. |
 | III.3 | V Convenio del personal laboral | 11 | 1 | 4 | Repaso parcial del V Convenio. Los datos del artículo 43 y período de prueba se contrastan además con el examen oficial 2025. No se ha auditado íntegramente la sucesión de acuerdos y modificaciones. |
 | III.4 | Retribuciones de los funcionarios | 12 | 2 | 4 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | III.5 | Prestaciones de la Seguridad Social | 11 | 1 | 6 | Selección de prestaciones, IT, incapacidad y jubilación. No hay cobertura exhaustiva de nacimiento y cuidado, jubilación anticipada/parcial, protección familiar ni situaciones especiales. No se incluyen edades o importes sin fecha. |
 | IV.1 | Presupuesto y Hacienda del Principado | 10 | 0 | 4 | Conceptos básicos de Hacienda y presupuesto. No sustituye el estudio del capítulo I, sección 1 del texto refundido. |
 | IV.2 | Créditos y modificaciones presupuestarias | 14 | 4 | 4 | Conceptos y preguntas seleccionadas de modificaciones. Las competencias, límites y vinculaciones deben contrastarse con la ley presupuestaria del ejercicio aplicable. |
-| IV.3 | Ejecución, liquidación y documentos contables | 14 | 4 | 4 | Fases y documentos contables, pagos a justificar y liquidación. Cobertura parcial de procedimientos y normativa contable autonómica. |
+| IV.3 | Ejecución, liquidación y documentos contables | 17 | 7 | 4 | Fases y documentos contables, pagos a justificar y liquidación. Cobertura parcial de procedimientos y normativa contable autonómica. |
 | IV.4 | Clasificación económica del gasto | 11 | 1 | 3 | Clasificación económica general por capítulos. No se cubren todos los artículos, conceptos y subconceptos del clasificador asturiano. |
 | IV.5 | Control del gasto y Sindicatura de Cuentas | 12 | 2 | 6 | Control interno y externo, Sindicatura y una cuestión del Decreto 70/2004. No se cubren exhaustivamente todos los procedimientos de control. |
 | V.1 | Windows 11 | 12 | 0 | 7 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
-| V.2 | Word 365 | 15 | 0 | 8 | Funciones comunes y diferencias entre Word web y escritorio. La convocatoria especifica aplicaciones web de Microsoft 365; los recursos externos pueden usar versiones de escritorio. |
-| V.3 | Excel 365 | 18 | 0 | 8 | Fórmulas, referencias, datos y diferencias web/escritorio. Excel web no crea, ejecuta ni edita macros VBA; la pregunta de grabación se identifica como Excel de escritorio. El programa menciona la utilidad de las macros. |
-| V.4 | Outlook 365 | 12 | 0 | 8 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
+| V.2 | Word 365 | 21 | 6 | 8 | Funciones comunes y diferencias entre Word web y escritorio. La convocatoria especifica aplicaciones web de Microsoft 365; los recursos externos pueden usar versiones de escritorio. |
+| V.3 | Excel 365 | 25 | 7 | 8 | Fórmulas, referencias, datos y diferencias web/escritorio. Excel web no crea, ejecuta ni edita macros VBA; la pregunta de grabación se identifica como Excel de escritorio. El programa menciona la utilidad de las macros. |
+| V.4 | Outlook 365 | 17 | 5 | 8 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
 | V.5 | Microsoft Teams | 12 | 0 | 3 | Teams profesional: comunicación, reuniones y archivos. Las funciones y nombres de pestañas pueden variar por versión, licencia y políticas de la organización. |
 | V.6 | OneDrive | 12 | 0 | 3 | Sincronización, acceso, versiones y recuperación. Los plazos de retención y opciones dependen de la cuenta y políticas; no se presentan como universales. |
 | V.7 | Administración electrónica y seguridad digital | 12 | 0 | 3 | Práctica parcial de conceptos y apartados seleccionados. No agota todos los artículos, excepciones o supuestos del tema. |
